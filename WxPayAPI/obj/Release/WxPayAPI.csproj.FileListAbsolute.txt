@@ -1,0 +1,13 @@
+F:\WxPayAPI\WxPayAPI\bin\WxPayAPI.dll.config
+F:\WxPayAPI\WxPayAPI\bin\WxPayAPI.dll
+F:\WxPayAPI\WxPayAPI\bin\WxPayAPI.pdb
+F:\WxPayAPI\WxPayAPI\obj\Release\WxPayAPI.dll
+F:\WxPayAPI\WxPayAPI\obj\Release\WxPayAPI.pdb
+F:\WxPayAPI\WxPayAPI\obj\Release\WxPayAPI.csprojResolveAssemblyReference.cache
+D:\weixingPay\POSS\POSS\WxPayAPI\bin\WxPayAPI.dll
+D:\weixingPay\POSS\POSS\WxPayAPI\bin\WxPayAPI.pdb
+D:\weixingPay\POSS\POSS\POSS\bin\Release\WxPayAPI.dll
+D:\weixingPay\POSS\POSS\POSS\bin\Release\WxPayAPI.pdb
+D:\weixingPay\POSS\POSS\WxPayAPI\obj\Release\WxPayAPI.dll
+D:\weixingPay\POSS\POSS\WxPayAPI\obj\Release\WxPayAPI.pdb
+D:\weixingPay\POSS\POSS\WxPayAPI\obj\Release\WxPayAPI.csprojResolveAssemblyReference.cache

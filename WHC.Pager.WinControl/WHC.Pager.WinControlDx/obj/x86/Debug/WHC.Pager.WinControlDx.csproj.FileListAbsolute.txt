@@ -1,0 +1,45 @@
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\pageControl\Lib\WHC.Pager.WinControlDx.dll
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\pageControl\Lib\WHC.Pager.WinControlDx.pdb
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControlDx.csprojResolveAssemblyReference.cache
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControl.CoolPrintPreviewDialog.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControl.FrmSelectColumnDisplay.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControl.Pager.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControl.PrintOptions.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControl.Properties.Resources.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControl.WinGridViewPager.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControl.WinListViewPager.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControl.WinGridView.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControlDx.csproj.GenerateResource.Cache
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControlDx.dll.licenses
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControlDx.dll
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControlDx.pdb
+F:\xiedan\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControlDx.csprojResolveAssemblyReference.cache
+F:\xiedan\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControl.CoolPrintPreviewDialog.resources
+F:\xiedan\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControl.Pager.resources
+F:\xiedan\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControl.Properties.Resources.resources
+F:\xiedan\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControl.WinGridViewPager.resources
+F:\xiedan\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControl.WinListViewPager.resources
+F:\xiedan\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControl.WinGridView.resources
+F:\xiedan\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControlDx.csproj.GenerateResource.Cache
+F:\xiedan\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControlDx.dll
+F:\xiedan\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControlDx.pdb
+F:\xiedan\Projects\BMS\pageControl\Lib\WHC.Pager.WinControlDx.dll
+F:\xiedan\Projects\BMS\pageControl\Lib\WHC.Pager.WinControlDx.pdb
+F:\xiedan\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControl.FrmSelectColumnDisplay.resources
+F:\xiedan\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControl.PrintOptions.resources
+F:\xiedan\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControlDx.dll.licenses
+E:\xiedan\Projects\BMS\pageControl\Lib\WHC.Pager.WinControlDx.dll
+E:\xiedan\Projects\BMS\pageControl\Lib\WHC.Pager.WinControlDx.pdb
+E:\xiedan\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControlDx.csprojResolveAssemblyReference.cache
+E:\xiedan\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControl.CoolPrintPreviewDialog.resources
+E:\xiedan\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControl.FrmSelectColumnDisplay.resources
+E:\xiedan\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControl.Pager.resources
+E:\xiedan\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControl.PrintOptions.resources
+E:\xiedan\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControl.Properties.Resources.resources
+E:\xiedan\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControl.WinGridViewPager.resources
+E:\xiedan\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControl.WinListViewPager.resources
+E:\xiedan\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControl.WinGridView.resources
+E:\xiedan\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControlDx.csproj.GenerateResource.Cache
+E:\xiedan\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControlDx.dll.licenses
+E:\xiedan\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControlDx.dll
+E:\xiedan\Projects\BMS\pageControl\WHC.Pager.WinControlDx\obj\x86\Debug\WHC.Pager.WinControlDx.pdb

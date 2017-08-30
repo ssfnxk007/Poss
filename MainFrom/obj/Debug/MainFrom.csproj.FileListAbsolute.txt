@@ -1,0 +1,13 @@
+D:\weixingPay\POSS\POSS\MainFrom\bin\Debug\MainFrom.exe.config
+D:\weixingPay\POSS\POSS\MainFrom\bin\Debug\MainFrom.exe
+D:\weixingPay\POSS\POSS\MainFrom\bin\Debug\MainFrom.pdb
+D:\weixingPay\POSS\POSS\POSS\bin\Debug\MainFrom.exe
+D:\weixingPay\POSS\POSS\POSS\bin\Debug\MainFrom.pdb
+D:\weixingPay\POSS\POSS\MainFrom\obj\Debug\MainFrom.csprojResolveAssemblyReference.cache
+D:\weixingPay\POSS\POSS\MainFrom\obj\Debug\MainFrom.FormMain.resources
+D:\weixingPay\POSS\POSS\MainFrom\obj\Debug\MainFrom.Properties.Resources.resources
+D:\weixingPay\POSS\POSS\MainFrom\obj\Debug\MainFrom.csproj.GenerateResource.Cache
+D:\weixingPay\POSS\POSS\MainFrom\obj\Debug\MainFrom.exe.licenses
+D:\weixingPay\POSS\POSS\MainFrom\obj\Debug\MainFrom.exe
+D:\weixingPay\POSS\POSS\MainFrom\obj\Debug\MainFrom.pdb
+D:\weixingPay\POSS\POSS\MainFrom\obj\Debug\MainFrom.BaseDock.resources

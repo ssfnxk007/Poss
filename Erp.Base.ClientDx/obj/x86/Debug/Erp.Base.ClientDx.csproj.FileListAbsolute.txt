@@ -1,0 +1,367 @@
+C:\Users\hongan\Desktop\04-数据字典[混合]\Lib\Erp.Base.ClientDx.dll
+C:\Users\hongan\Desktop\04-数据字典[混合]\Lib\Erp.Base.ClientDx.pdb
+C:\Users\hongan\Desktop\04-数据字典[混合]\WHC.Dictionary.ClientDx\obj\x86\Debug\WHC.Dictionary.UI.BaseDock.resources
+C:\Users\hongan\Desktop\04-数据字典[混合]\WHC.Dictionary.ClientDx\obj\x86\Debug\WHC.Dictionary.UI.BaseEditForm.resources
+C:\Users\hongan\Desktop\04-数据字典[混合]\WHC.Dictionary.ClientDx\obj\x86\Debug\WHC.Dictionary.UI.BaseForm.resources
+C:\Users\hongan\Desktop\04-数据字典[混合]\WHC.Dictionary.ClientDx\obj\x86\Debug\WHC.Dictionary.UI.DataNavigator.resources
+C:\Users\hongan\Desktop\04-数据字典[混合]\WHC.Dictionary.ClientDx\obj\x86\Debug\Erp.Base.UI.Properties.Resources.resources
+C:\Users\hongan\Desktop\04-数据字典[混合]\WHC.Dictionary.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.csproj.GenerateResource.Cache
+C:\Users\hongan\Desktop\04-数据字典[混合]\WHC.Dictionary.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.dll.licenses
+C:\Users\hongan\Desktop\04-数据字典[混合]\WHC.Dictionary.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.dll
+C:\Users\hongan\Desktop\04-数据字典[混合]\WHC.Dictionary.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.pdb
+C:\Users\hongan\Desktop\基础数据管理[混合]\Lib\Erp.Base.ClientDx.dll
+C:\Users\hongan\Desktop\基础数据管理[混合]\Lib\Erp.Base.ClientDx.pdb
+C:\Users\hongan\Desktop\基础数据管理[混合]\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.csprojResolveAssemblyReference.cache
+C:\Users\hongan\Desktop\基础数据管理[混合]\Erp.Base.ClientDx\obj\x86\Debug\WHC.Dictionary.UI.BaseDock.resources
+C:\Users\hongan\Desktop\基础数据管理[混合]\Erp.Base.ClientDx\obj\x86\Debug\WHC.Dictionary.UI.BaseEditForm.resources
+C:\Users\hongan\Desktop\基础数据管理[混合]\Erp.Base.ClientDx\obj\x86\Debug\WHC.Dictionary.UI.BaseForm.resources
+C:\Users\hongan\Desktop\基础数据管理[混合]\Erp.Base.ClientDx\obj\x86\Debug\WHC.Dictionary.UI.DataNavigator.resources
+C:\Users\hongan\Desktop\基础数据管理[混合]\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.Properties.Resources.resources
+C:\Users\hongan\Desktop\基础数据管理[混合]\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.csproj.GenerateResource.Cache
+C:\Users\hongan\Desktop\基础数据管理[混合]\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.dll.licenses
+C:\Users\hongan\Desktop\基础数据管理[混合]\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.dll
+C:\Users\hongan\Desktop\基础数据管理[混合]\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.pdb
+E:\混合框架\基础数据管理[混合]\Lib\Erp.Base.ClientDx.dll
+E:\混合框架\基础数据管理[混合]\Lib\Erp.Base.ClientDx.pdb
+E:\混合框架\基础数据管理[混合]\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.BaseEditForm.resources
+E:\混合框架\基础数据管理[混合]\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.BaseForm.resources
+E:\混合框架\基础数据管理[混合]\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.DataNavigator.resources
+E:\混合框架\基础数据管理[混合]\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmDz_Type.resources
+E:\混合框架\基础数据管理[混合]\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.Properties.Resources.resources
+E:\混合框架\基础数据管理[混合]\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.csproj.GenerateResource.Cache
+E:\混合框架\基础数据管理[混合]\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.dll.licenses
+E:\混合框架\基础数据管理[混合]\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.dll
+E:\混合框架\基础数据管理[混合]\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.pdb
+E:\混合框架\基础数据管理[混合]\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmClients.resources
+E:\混合框架\基础数据管理[混合]\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.BaseDock.resources
+E:\混合框架\基础数据管理[混合]\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.BaseDockQuery.resources
+E:\混合框架\基础数据管理[混合]\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditClients.resources
+E:\混合框架\基础数据管理[混合]\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.csprojResolveAssemblyReference.cache
+E:\all\BMS\BasicInfo\Lib\BaseWcfConfig.config
+E:\all\BMS\BasicInfo\Lib\WcfConfig.config
+E:\all\BMS\BasicInfo\Lib\Erp.Base.ClientDx.dll
+E:\all\BMS\BasicInfo\Lib\Erp.Base.ClientDx.pdb
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.csprojResolveAssemblyReference.cache
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.BaseDock.resources
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.BaseDockQuery.resources
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.BaseEditForm.resources
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.BaseForm.resources
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.DataNavigator.resources
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ProductDisplay.resources
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ProductInput.resources
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.SelectProductInfo.resources
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ChoseObject.resources
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ClientInput.resources
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ComditionFilter.resources
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FactoryInput.resources
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.InputAmount.resources
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.SelectInfo.resources
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmIn_Detail.resources
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmShelfDistribution.resources
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmStockArrear.resources
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.Client.Control.StockTips.FrmTotalStock.resources
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.StockTips.resources
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmClients.resources
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmDz_Type.resources
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditClients.resources
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditFactory.resources
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditProduct.resources
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditPublishs.resources
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmFactory.resources
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmProduct.resources
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmPublish.resources
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditMember.resources
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmMember.resources
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmShowRepeatProductInfo.resources
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.Properties.Resources.resources
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.csproj.GenerateResource.Cache
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.dll.licenses
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.dll
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.pdb
+G:\all\BMS\BasicInfo\Lib\WcfConfig.config
+G:\all\BMS\BasicInfo\Lib\Erp.Base.ClientDx.dll
+G:\all\BMS\BasicInfo\Lib\Erp.Base.ClientDx.pdb
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.csprojResolveAssemblyReference.cache
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.BaseDock.resources
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.BaseDockQuery.resources
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.BaseEditForm.resources
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.BaseForm.resources
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.DataNavigator.resources
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ChoseObject.resources
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ClientInput.resources
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ComditionFilter.resources
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FactoryInput.resources
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.InputAmount.resources
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ProductDisplay.resources
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ProductInput.resources
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.SelectInfo.resources
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.SelectProductInfo.resources
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmIn_Detail.resources
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmShelfDistribution.resources
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmStockArrear.resources
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.Client.Control.StockTips.FrmTotalStock.resources
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.StockTips.resources
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmClients.resources
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmDz_Type.resources
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditClients.resources
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditFactory.resources
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditProduct.resources
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditPublishs.resources
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmFactory.resources
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmProduct.resources
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmPublish.resources
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmShowRepeatProductInfo.resources
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.Properties.Resources.resources
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.csproj.GenerateResource.Cache
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.dll.licenses
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.dll
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.pdb
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmMember.resources
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditMember.resources
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditWg_card.resources
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmOwer.resources
+G:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmStationDepartment.resources
+G:\all\BMS\BasicInfo\Lib\BaseWcfConfig.config
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditWg_card.resources
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmOwer.resources
+E:\all\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmStationDepartment.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Lib\BaseWcfConfig.config
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Lib\WcfConfig.config
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Lib\Erp.Base.ClientDx.dll
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Lib\Erp.Base.ClientDx.pdb
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.csprojResolveAssemblyReference.cache
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.BaseDock.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.BaseDockQuery.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.BaseEditForm.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.BaseForm.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.DataNavigator.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ChoseObject.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ClientInput.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ComditionFilter.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FactoryInput.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.InputAmount.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ProductDisplay.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ProductInput.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.SelectInfo.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.SelectProductInfo.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmIn_Detail.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmShelfDistribution.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmStockArrear.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.Client.Control.StockTips.FrmTotalStock.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.StockTips.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmClients.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmDz_Type.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditClients.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditFactory.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditMember.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditProduct.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditPublishs.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditWg_card.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmFactory.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmMember.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmOwer.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmProduct.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmPublish.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmShowRepeatProductInfo.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmStationDepartment.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.Properties.Resources.resources
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.csproj.GenerateResource.Cache
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.dll.licenses
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.dll
+D:\Users\lha\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.pdb
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Lib\BaseWcfConfig.config
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Lib\WcfConfig.config
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Lib\Erp.Base.ClientDx.dll
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Lib\Erp.Base.ClientDx.pdb
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.csprojResolveAssemblyReference.cache
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.BaseDock.resources
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.BaseDockQuery.resources
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.BaseEditForm.resources
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.BaseForm.resources
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.DataNavigator.resources
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ChoseObject.resources
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ClientInput.resources
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ComditionFilter.resources
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FactoryInput.resources
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.InputAmount.resources
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ProductDisplay.resources
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ProductInput.resources
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.SelectInfo.resources
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.SelectProductInfo.resources
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmIn_Detail.resources
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmShelfDistribution.resources
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmStockArrear.resources
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.Client.Control.StockTips.FrmTotalStock.resources
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.StockTips.resources
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmClients.resources
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmDz_Type.resources
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditClients.resources
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditFactory.resources
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditMember.resources
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditProduct.resources
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditPublishs.resources
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditWg_card.resources
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmFactory.resources
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmMember.resources
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmOwer.resources
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmProduct.resources
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmPublish.resources
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmShowRepeatProductInfo.resources
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmStationDepartment.resources
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.Properties.Resources.resources
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.csproj.GenerateResource.Cache
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.dll.licenses
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.dll
+e:\Users\U001\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.pdb
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Lib\BaseWcfConfig.config
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Lib\WcfConfig.config
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Lib\Erp.Base.ClientDx.dll
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Lib\Erp.Base.ClientDx.pdb
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.csprojResolveAssemblyReference.cache
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.BaseDock.resources
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.BaseDockQuery.resources
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.BaseEditForm.resources
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.BaseForm.resources
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.DataNavigator.resources
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ChoseObject.resources
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ClientInput.resources
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ComditionFilter.resources
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FactoryInput.resources
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.InputAmount.resources
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ProductDisplay.resources
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ProductInput.resources
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.SelectInfo.resources
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.SelectProductInfo.resources
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmIn_Detail.resources
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmShelfDistribution.resources
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmStockArrear.resources
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.Client.Control.StockTips.FrmTotalStock.resources
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.StockTips.resources
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmClients.resources
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmDz_Type.resources
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditClients.resources
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditFactory.resources
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditMember.resources
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditProduct.resources
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditPublishs.resources
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditWg_card.resources
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmFactory.resources
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmMember.resources
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmOwer.resources
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmProduct.resources
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmPublish.resources
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmShowRepeatProductInfo.resources
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmStationDepartment.resources
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.Properties.Resources.resources
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.csproj.GenerateResource.Cache
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.dll.licenses
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.dll
+E:\Users\U002\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.pdb
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Lib\BaseWcfConfig.config
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Lib\WcfConfig.config
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Lib\Erp.Base.ClientDx.dll
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Lib\Erp.Base.ClientDx.pdb
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.csprojResolveAssemblyReference.cache
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.BaseDock.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.BaseDockQuery.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.BaseEditForm.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.BaseForm.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.DataNavigator.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ChoseObject.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ClientInput.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ClientsDisplay.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ComditionFilter.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FactoryDisplay.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FactoryInput.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.InputAmount.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.MemberDisplay.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.MemberInput.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ProductDisplay.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ProductInput.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.QueryProduct.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.SelectInfo.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.SelectProductInfo.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmIn_Detail.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmShelfDistribution.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmStockArrear.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.Client.Control.StockTips.FrmTotalStock.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.StockTips.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.TypeSearchControl.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.Client.Control.WaitForm1.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmClients.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmDz_Type.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditClients.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditFactory.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditMember.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditProduct.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditPublishs.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditWg_card.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmFactory.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmMember.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmOwer.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmProduct.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmProductDiscount.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmPublish.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmSelectDiscount.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmSelectMember.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmShowRepeatProductInfo.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmStationDepartment.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.Properties.Resources.resources
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.csproj.GenerateResource.Cache
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.dll.licenses
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.dll
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.pdb
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.csprojResolveAssemblyReference.cache
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.BaseDock.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.BaseDockQuery.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.BaseEditForm.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.BaseForm.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ChoseObject.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ClientInput.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ClientsDisplay.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ComditionFilter.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FactoryDisplay.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FactoryInput.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.InputAmount.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.MemberDisplay.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.MemberInput.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ProductDisplay.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.ProductInput.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.QueryProduct.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.SelectInfo.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.SelectProductInfo.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmIn_Detail.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmShelfDistribution.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmStockArrear.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.Client.Control.StockTips.FrmTotalStock.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.StockTips.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.TypeSearchControl.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.Client.Control.WaitForm1.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmClients.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmDz_Type.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditClients.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditFactory.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditMember.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditProduct.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditPublishs.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmEditWg_card.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmFactory.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmMember.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmOwer.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmProduct.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmProductDiscount.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmPublish.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmSelectDiscount.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmSelectMember.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmShowRepeatProductInfo.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.FrmStationDepartment.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.Properties.Resources.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.csproj.GenerateResource.Cache
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.dll
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.pdb
+F:\xiedan\Projects\BMS\BasicInfo\Lib\BaseWcfConfig.config
+F:\xiedan\Projects\BMS\BasicInfo\Lib\WcfConfig.config
+F:\xiedan\Projects\BMS\BasicInfo\Lib\Erp.Base.ClientDx.dll
+F:\xiedan\Projects\BMS\BasicInfo\Lib\Erp.Base.ClientDx.pdb
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.UI.DataNavigator.resources
+F:\xiedan\Projects\BMS\BasicInfo\Erp.Base.ClientDx\obj\x86\Debug\Erp.Base.ClientDx.dll.licenses

@@ -1,0 +1,15 @@
+D:\weixingPay\POSS\POSS\WHC.Pager.WinControl\WHC.Pager.WinControlDx\obj\Release\WHC.Pager.WinControlDx.csprojResolveAssemblyReference.cache
+D:\weixingPay\POSS\POSS\WHC.Pager.WinControl\WHC.Pager.WinControlDx\obj\Release\WHC.Pager.WinControl.CoolPrintPreviewDialog.resources
+D:\weixingPay\POSS\POSS\WHC.Pager.WinControl\WHC.Pager.WinControlDx\obj\Release\WHC.Pager.WinControl.FrmSelectColumnDisplay.resources
+D:\weixingPay\POSS\POSS\WHC.Pager.WinControl\WHC.Pager.WinControlDx\obj\Release\WHC.Pager.WinControl.Pager.resources
+D:\weixingPay\POSS\POSS\WHC.Pager.WinControl\WHC.Pager.WinControlDx\obj\Release\WHC.Pager.WinControl.PrintOptions.resources
+D:\weixingPay\POSS\POSS\WHC.Pager.WinControl\WHC.Pager.WinControlDx\obj\Release\WHC.Pager.WinControl.Properties.Resources.resources
+D:\weixingPay\POSS\POSS\WHC.Pager.WinControl\WHC.Pager.WinControlDx\obj\Release\WHC.Pager.WinControl.WinGridViewPager.resources
+D:\weixingPay\POSS\POSS\WHC.Pager.WinControl\WHC.Pager.WinControlDx\obj\Release\WHC.Pager.WinControl.WinListViewPager.resources
+D:\weixingPay\POSS\POSS\WHC.Pager.WinControl\WHC.Pager.WinControlDx\obj\Release\WHC.Pager.WinControl.WinGridView.resources
+D:\weixingPay\POSS\POSS\WHC.Pager.WinControl\WHC.Pager.WinControlDx\obj\Release\WHC.Pager.WinControlDx.csproj.GenerateResource.Cache
+D:\weixingPay\POSS\POSS\WHC.Pager.WinControl\WHC.Pager.WinControlDx\obj\Release\WHC.Pager.WinControlDx.dll.licenses
+D:\weixingPay\POSS\POSS\POSS\bin\Release\WHC.Pager.WinControlDx.dll
+D:\weixingPay\POSS\POSS\POSS\bin\Release\WHC.Pager.WinControlDx.pdb
+D:\weixingPay\POSS\POSS\WHC.Pager.WinControl\WHC.Pager.WinControlDx\obj\Release\WHC.Pager.WinControlDx.dll
+D:\weixingPay\POSS\POSS\WHC.Pager.WinControl\WHC.Pager.WinControlDx\obj\Release\WHC.Pager.WinControlDx.pdb

@@ -1,0 +1,16 @@
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\pageControl\WHC.Pager.Entity\bin\Debug\WHC.Pager.Entity.dll
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\pageControl\WHC.Pager.Entity\bin\Debug\WHC.Pager.Entity.pdb
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\pageControl\WHC.Pager.Entity\obj\Debug\WHC.Pager.Entity.dll
+E:\Users\lin\Documents\Visual Studio 2013\Projects\BMS\pageControl\WHC.Pager.Entity\obj\Debug\WHC.Pager.Entity.pdb
+F:\xiedan\Projects\BMS\pageControl\WHC.Pager.Entity\bin\Debug\WHC.Pager.Entity.dll
+F:\xiedan\Projects\BMS\pageControl\WHC.Pager.Entity\bin\Debug\WHC.Pager.Entity.pdb
+F:\xiedan\Projects\BMS\pageControl\WHC.Pager.Entity\obj\Debug\WHC.Pager.Entity.dll
+F:\xiedan\Projects\BMS\pageControl\WHC.Pager.Entity\obj\Debug\WHC.Pager.Entity.pdb
+E:\xiedan\Projects\BMS\pageControl\WHC.Pager.Entity\bin\Debug\WHC.Pager.Entity.dll
+E:\xiedan\Projects\BMS\pageControl\WHC.Pager.Entity\bin\Debug\WHC.Pager.Entity.pdb
+E:\xiedan\Projects\BMS\pageControl\WHC.Pager.Entity\obj\Debug\WHC.Pager.Entity.dll
+E:\xiedan\Projects\BMS\pageControl\WHC.Pager.Entity\obj\Debug\WHC.Pager.Entity.pdb
+D:\weixingPay\POSS\POSS\WHC.Pager.WinControl\WHC.Pager.Entity\bin\Debug\WHC.Pager.Entity.dll
+D:\weixingPay\POSS\POSS\WHC.Pager.WinControl\WHC.Pager.Entity\bin\Debug\WHC.Pager.Entity.pdb
+D:\weixingPay\POSS\POSS\WHC.Pager.WinControl\WHC.Pager.Entity\obj\Debug\WHC.Pager.Entity.dll
+D:\weixingPay\POSS\POSS\WHC.Pager.WinControl\WHC.Pager.Entity\obj\Debug\WHC.Pager.Entity.pdb

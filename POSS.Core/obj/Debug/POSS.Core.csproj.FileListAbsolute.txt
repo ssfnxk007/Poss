@@ -1,0 +1,16 @@
+E:\xiedan\伍华聪MVC4+easyui框架\dfs\Web开发框架1\WHC.MVCWebMis.Core\bin\Debug\POSS.Core.dll
+E:\xiedan\伍华聪MVC4+easyui框架\dfs\Web开发框架1\WHC.MVCWebMis.Core\bin\Debug\POSS.Core.pdb
+E:\xiedan\伍华聪MVC4+easyui框架\dfs\Web开发框架1\WHC.MVCWebMis.Core\bin\Debug\EntLibContrib.Data.SQLite.dll
+E:\xiedan\伍华聪MVC4+easyui框架\dfs\Web开发框架1\WHC.MVCWebMis.Core\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\xiedan\伍华聪MVC4+easyui框架\dfs\Web开发框架1\WHC.MVCWebMis.Core\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\xiedan\伍华聪MVC4+easyui框架\dfs\Web开发框架1\WHC.MVCWebMis.Core\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\xiedan\伍华聪MVC4+easyui框架\dfs\Web开发框架1\WHC.MVCWebMis.Core\bin\Debug\MySql.Data.dll
+E:\xiedan\伍华聪MVC4+easyui框架\dfs\Web开发框架1\WHC.MVCWebMis.Core\bin\Debug\System.Data.SQLite.dll
+E:\xiedan\伍华聪MVC4+easyui框架\dfs\Web开发框架1\WHC.MVCWebMis.Core\obj\Debug\POSS.Core.dll
+E:\xiedan\伍华聪MVC4+easyui框架\dfs\Web开发框架1\WHC.MVCWebMis.Core\obj\Debug\POSS.Core.pdb
+E:\xiedan\伍华聪MVC4+easyui框架\dfs\Web开发框架1\WHC.MVCWebMis.Core\obj\Debug\POSS.Core.csprojResolveAssemblyReference.cache
+D:\weixingPay\POSS\POSS\POSS.Core\bin\Debug\POSS.Core.dll
+D:\weixingPay\POSS\POSS\POSS.Core\bin\Debug\POSS.Core.pdb
+D:\weixingPay\POSS\POSS\POSS.Core\obj\Debug\POSS.Core.csprojResolveAssemblyReference.cache
+D:\weixingPay\POSS\POSS\POSS.Core\obj\Debug\POSS.Core.dll
+D:\weixingPay\POSS\POSS\POSS.Core\obj\Debug\POSS.Core.pdb

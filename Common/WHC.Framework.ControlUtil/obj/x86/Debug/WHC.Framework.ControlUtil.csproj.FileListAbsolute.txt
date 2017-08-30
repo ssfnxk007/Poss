@@ -1,0 +1,23 @@
+D:\Users\u003\Documents\Visual Studio 2013\Projects\E-Commerce\Common\WHC.Framework.ControlUtil\obj\x86\Debug\WHC.Framework.ControlUtil.csprojResolveAssemblyReference.cache
+D:\Users\u003\Documents\Visual Studio 2013\Projects\E-Commerce\Common\Lib\WHC.Framework.ControlUtil.XML
+D:\Users\u003\Documents\Visual Studio 2013\Projects\E-Commerce\Common\Lib\WHC.Framework.ControlUtil.dll
+D:\Users\u003\Documents\Visual Studio 2013\Projects\E-Commerce\Common\Lib\WHC.Framework.ControlUtil.pdb
+D:\Users\u003\Documents\Visual Studio 2013\Projects\E-Commerce\Common\WHC.Framework.ControlUtil\obj\x86\Debug\WHC.Framework.ControlUtil.csproj.ResolveComReference.cache
+D:\Users\u003\Documents\Visual Studio 2013\Projects\E-Commerce\Common\WHC.Framework.ControlUtil\obj\x86\Debug\WHC.Framework.ControlUtil.dll
+D:\Users\u003\Documents\Visual Studio 2013\Projects\E-Commerce\Common\WHC.Framework.ControlUtil\obj\x86\Debug\WHC.Framework.ControlUtil.pdb
+E:\Users\u003\Documents\Visual Studio 2013\Projects\E-Commerce\Common\Lib\WHC.Framework.ControlUtil.XML
+E:\Users\u003\Documents\Visual Studio 2013\Projects\E-Commerce\Common\Lib\WHC.Framework.ControlUtil.dll
+E:\Users\u003\Documents\Visual Studio 2013\Projects\E-Commerce\Common\Lib\WHC.Framework.ControlUtil.pdb
+E:\Users\u003\Documents\Visual Studio 2013\Projects\E-Commerce\Common\WHC.Framework.ControlUtil\obj\x86\Debug\WHC.Framework.ControlUtil.csprojResolveAssemblyReference.cache
+E:\Users\u003\Documents\Visual Studio 2013\Projects\E-Commerce\Common\WHC.Framework.ControlUtil\obj\x86\Debug\Interop.VBIDE.dll
+E:\Users\u003\Documents\Visual Studio 2013\Projects\E-Commerce\Common\WHC.Framework.ControlUtil\obj\x86\Debug\WHC.Framework.ControlUtil.csproj.ResolveComReference.cache
+E:\Users\u003\Documents\Visual Studio 2013\Projects\E-Commerce\Common\WHC.Framework.ControlUtil\obj\x86\Debug\WHC.Framework.ControlUtil.dll
+E:\Users\u003\Documents\Visual Studio 2013\Projects\E-Commerce\Common\WHC.Framework.ControlUtil\obj\x86\Debug\WHC.Framework.ControlUtil.pdb
+F:\xiedan\E-Commerce\Common\Lib\WHC.Framework.ControlUtil.XML
+F:\xiedan\E-Commerce\Common\Lib\WHC.Framework.ControlUtil.dll
+F:\xiedan\E-Commerce\Common\Lib\WHC.Framework.ControlUtil.pdb
+F:\xiedan\E-Commerce\Common\WHC.Framework.ControlUtil\obj\x86\Debug\WHC.Framework.ControlUtil.csprojResolveAssemblyReference.cache
+F:\xiedan\E-Commerce\Common\WHC.Framework.ControlUtil\obj\x86\Debug\Interop.VBIDE.dll
+F:\xiedan\E-Commerce\Common\WHC.Framework.ControlUtil\obj\x86\Debug\WHC.Framework.ControlUtil.csproj.ResolveComReference.cache
+F:\xiedan\E-Commerce\Common\WHC.Framework.ControlUtil\obj\x86\Debug\WHC.Framework.ControlUtil.dll
+F:\xiedan\E-Commerce\Common\WHC.Framework.ControlUtil\obj\x86\Debug\WHC.Framework.ControlUtil.pdb
