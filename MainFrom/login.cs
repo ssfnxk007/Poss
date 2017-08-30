@@ -254,7 +254,9 @@ namespace MainFrom
                         frompos = new FormMain();
                         frompos.O_id = o_id;
                         frompos.Show();
-                        this.Close();
+
+                        this.Hide();
+
                     }
                     else
                     {
@@ -264,14 +266,15 @@ namespace MainFrom
                 }
                 else
                 {
-                    POSS.MessagboxUit.ShowError(reult);
+                    MessagboxUit.ShowError(reult);
+                    skinTextBox2.Focus();
                 }
             }
             else
             {
-                POSS.MessagboxUit.ShowError("是否没有选择用户");
+                MessagboxUit.ShowError("是否没有选择用户");
             }
-            this.Close();
+            //this.Close();
         }
 
         private void skinButton2_Click(object sender, EventArgs e)

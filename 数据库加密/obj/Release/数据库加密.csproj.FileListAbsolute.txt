@@ -9,3 +9,4 @@ D:\weixingPay\POSS\POSS\数据库加密\obj\Release\数据库加密.exe
 D:\weixingPay\POSS\POSS\数据库加密\obj\Release\数据库加密.pdb
 D:\weixingPay\POSS\POSS\数据库加密\obj\Release\数据库加密.Form2.resources
 D:\weixingPay\POSS\POSS\数据库加密\obj\Release\数据库加密.exe.licenses
+D:\weixingPay\POSS\POSS\数据库加密\obj\Release\数据库加密.SQLForm3.resources

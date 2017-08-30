@@ -2689,6 +2689,11 @@
             是否修改折扣
             </summary>
         </member>
+        <member name="P:WHC.Framework.Commons.LoginUserInfo.is_zl">
+            <summary>
+            是否可置零
+            </summary>
+        </member>
         <member name="T:WHC.Framework.Commons.EmailHelper">
             <summary>
             发送邮件的辅助类，可以发送附件、嵌入图片、HTML等内容邮件。使用底层SMTP协议指令进行发送。

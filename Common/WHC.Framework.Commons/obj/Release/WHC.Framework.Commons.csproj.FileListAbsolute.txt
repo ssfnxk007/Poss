@@ -298,4 +298,4 @@ D:\weixingPay\POSS\POSS\Common\WHC.Framework.Commons\obj\Release\WHC.Framework.C
 D:\weixingPay\POSS\POSS\Common\WHC.Framework.Commons\obj\Release\WHC.Framework.Commons.dll.licenses
 D:\weixingPay\POSS\POSS\Common\WHC.Framework.Commons\obj\Release\WHC.Framework.Commons.dll
 D:\weixingPay\POSS\POSS\Common\WHC.Framework.Commons\obj\Release\WHC.Framework.Commons.pdb
-D:\weixingPay\POSS\POSS\Common\WHC.Framework.Commons\obj\Release\WHC.Framework.Commons.csprojResolveAssemblyReference.cache
+D:\weixingPay\POSS\POSS\Common\WHC.Framework.Commons\obj\Release\WHC.Framework.Commons.MultipadPrintDocument.resources

@@ -11,3 +11,4 @@ D:\weixingPay\POSS\POSS\MainFrom\obj\Debug\MainFrom.exe.licenses
 D:\weixingPay\POSS\POSS\MainFrom\obj\Debug\MainFrom.exe
 D:\weixingPay\POSS\POSS\MainFrom\obj\Debug\MainFrom.pdb
 D:\weixingPay\POSS\POSS\MainFrom\obj\Debug\MainFrom.BaseDock.resources
+D:\weixingPay\POSS\POSS\POSS\bin\Debug\MainFrom.exe.config
