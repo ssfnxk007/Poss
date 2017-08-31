@@ -58,7 +58,6 @@ D:\weixingPay\POSS\POSS\POSS\bin\Debug\DevExpress.XtraGrid.v14.2.xml
 D:\weixingPay\POSS\POSS\POSS\bin\Debug\DevExpress.XtraLayout.v14.2.xml
 D:\weixingPay\POSS\POSS\POSS\bin\Debug\DevExpress.XtraPrinting.v14.2.xml
 D:\weixingPay\POSS\POSS\POSS\bin\Debug\DevExpress.XtraTreeList.v14.2.xml
-D:\weixingPay\POSS\POSS\POSS\bin\Debug\Aspose.Cells.xml
 D:\weixingPay\POSS\POSS\POSS\bin\Debug\DevExpress.Data.v13.1.xml
 D:\weixingPay\POSS\POSS\POSS\bin\Debug\DevExpress.Sparkline.v14.2.Core.xml
 D:\weixingPay\POSS\POSS\POSS\bin\Debug\DevExpress.RichEdit.v14.2.Core.xml

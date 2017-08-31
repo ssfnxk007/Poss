@@ -10,4 +10,3 @@ D:\weixingPay\POSS\POSS\POSS\bin\Release\WxPayAPI.dll
 D:\weixingPay\POSS\POSS\POSS\bin\Release\WxPayAPI.pdb
 D:\weixingPay\POSS\POSS\WxPayAPI\obj\Release\WxPayAPI.dll
 D:\weixingPay\POSS\POSS\WxPayAPI\obj\Release\WxPayAPI.pdb
-D:\weixingPay\POSS\POSS\WxPayAPI\obj\Release\WxPayAPI.csprojResolveAssemblyReference.cache

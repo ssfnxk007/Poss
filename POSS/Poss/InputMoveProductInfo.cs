@@ -375,15 +375,15 @@ namespace POSS
             {
                 if (e.KeyCode == System.Windows.Forms.Keys.Enter)
                 {
-                    SimpleProductInfo info = winGridView1.gridView1.GetFocusedRow() as SimpleProductInfo;
-                    if (info.Checked)
-                    {
-                        info.Checked = false;
-                    }
-                    else
-                    {
-                        info.Checked = true;
-                    }
+                    //SimpleProductInfo info = winGridView1.gridView1.GetFocusedRow() as SimpleProductInfo;
+                    //if (info.Checked)
+                    //{
+                    //    info.Checked = false;
+                    //}
+                    //else
+                    //{
+                    //    info.Checked = true;
+                    //}
                     bt_ok_Click(null, null);
                 }
             }

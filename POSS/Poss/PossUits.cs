@@ -525,7 +525,7 @@ namespace POSS
             this.winGridView1.DisplayColumns = "";
             this.winGridView1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.winGridView1.EnableEdit = true;
-            this.winGridView1.EnableMenu = true;
+            this.winGridView1.EnableMenu = false;
             this.winGridView1.HaveProduct = false;
             this.winGridView1.Location = new System.Drawing.Point(2, 2);
             this.winGridView1.Name = "winGridView1";
@@ -2503,7 +2503,7 @@ namespace POSS
         /// <param name="e"></param>
         private void bt_delete_Click(object sender, EventArgs e)
         {
-            if (Portal.gc.loginUserInfo.is_zl.Trim() != "1")
+            if (Portal.gc.loginUserInfo.is_zl.Trim() != "0")// 判断是否有置零权
             {
                 int rowIndex = winGridView1.GridView1.FocusedRowHandle;
                 if (rowIndex >= 0)
@@ -3177,7 +3177,7 @@ namespace POSS
                 return;
             }
             pintxiaopiao = new PrintDocument();
-            MultipadPrintDocument print = new MultipadPrintDocument();
+            MultipadPrintDocument print = new MultipadPrintDocument();//小票打印.分页
             PrintDialog pd = new PrintDialog();
             
             print.Text = PrintText();
@@ -3190,13 +3190,6 @@ namespace POSS
             print.PrintController = new StandardPrintController();
             pd.Document = print;
             print.Print();
-            
-            //pintxiaopiao.PrintController = new StandardPrintController();//不出现正在打印框
-            ////PaperSize pagesize = new PaperSize("", (int)(58 / 25.4) * 100,);
-            ////pintxiaopiao.DefaultPageSettings.PaperSize = pagesize;
-            //pintxiaopiao.PrintPage += new PrintPageEventHandler(Pintxiaopiao_PrintPage);
-
-            //pintxiaopiao.Print();
             /// <summary>
             /// 设置待打印的内容
             /// </summary>
@@ -3227,7 +3220,7 @@ namespace POSS
                 sb.AppendLine(string.Format("单号：{0}", WanZhengLsInfo.Ls_id));
                 sb.AppendLine(string.Format("品名 "));
                 sb.AppendLine(string.Format("折扣   数量   售价   合计"));
-                sb.AppendLine(string.Format(CreateLine(28,'-')));
+                sb.AppendLine(string.Format("------------------------------"));
                 foreach (var item in kklist)
                 {
                     sb.AppendLine(string.Format("{0}", AutomaticLine(item.H_name,22,28)));
@@ -3244,10 +3237,10 @@ namespace POSS
                     sb.AppendLine(string.Format("会员积分:{0}", string.IsNullOrEmpty(cdmember.Integral.ToString("n2")) ? "" : cdmember.Integral.ToString("n2")));
                     sb.AppendLine(string.Format("会员卡内余额:{0}", string.IsNullOrEmpty(cdmember.SurplusMoney) ? "" : string.Format("{0:c2}", cdmember.SurplusMoney)));
                 }
-                sb.AppendLine(string.Format("品种:{0}应收:{1}", string.Format("{0:n0}", WanZhengLsInfo.Total_amount).PadRight(14, ' '), string.Format("{0:c2}", Ls_Sum)));
-                sb.AppendLine(string.Format("收银:{0}实收:{1}", string.Format("{0}", Portal.gc.loginUserInfo.O_Name).PadRight(14, ' '), string.Format("{0:c2}", paymoney)));
-                sb.AppendLine(string.Format("费用:{0}找零:{1}", string.Format("{0:c2}", SubMoney).PadRight(14, ' '), string.Format("{0:c2}", changemoney)));
-                sb.AppendLine(string.Format("台号:{0}站点:{1}", string.Format("{0}", Portal.gc.loginUserInfo.Yh_stand_id).PadRight(14, ' '), Portal.gc.loginUserInfo.Station_ID));
+                sb.AppendLine(string.Format("品种:{0}应收:{1}", string.Format("{0:n0}", WanZhengLsInfo.Total_amount).PadRight(13, ' '), string.Format("{0:c2}", Ls_Sum).PadRight(13,' ')));
+                sb.AppendLine(string.Format("收银:{0}实收:{1}", string.Format("{0}", Portal.gc.loginUserInfo.O_Name).PadRight(13, ' '), string.Format("{0:c2}", paymoney)));
+                sb.AppendLine(string.Format("费用:{0}找零:{1}", string.Format("{0:c2}", SubMoney).PadRight(13, ' '), string.Format("{0:c2}", changemoney)));
+                sb.AppendLine(string.Format("台号:{0}站点:{1}", string.Format("{0}", Portal.gc.loginUserInfo.Yh_stand_id).PadRight(13, ' '), Portal.gc.loginUserInfo.Station_ID));
                 sb.AppendLine(string.Format("日期:{0:yyyy-MM-dd HH:mm:ss}", WanZhengLsInfo.Ls_datetime));
                 if (!string.IsNullOrEmpty(possetup.Wei1))
                 {
@@ -3279,83 +3272,7 @@ namespace POSS
         }
        
 
-        /// <summary>
-        /// 小票内容与格式
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
-        //private void Pintxiaopiao_PrintPage(object sender, PrintPageEventArgs e)
-        //{
-            
-//            try
-//            {
-
-//                StringBuilder sb = new StringBuilder();
-//        Font f = SystemFonts.DefaultFont;
-//        Brush fbrush = SystemBrushes.ControlText;
-//        StringFormat sf = new StringFormat();
-//        sf.Alignment = StringAlignment.Near;
-//                sf.LineAlignment = StringAlignment.Near;
-//                if (!string.IsNullOrEmpty(possetup.Tou1))
-//                {
-//                    sb.AppendLine(string.Format("{0}", possetup.Tou1).PadLeft(15, ' '));
-//                }
-//                if (!string.IsNullOrEmpty(possetup.Tou2))
-//                {
-//                    sb.AppendLine(string.Format("{0}", possetup.Tou2).PadLeft(15, ' '));
-//                }
-//sb.AppendLine(string.Format("单号：{0}", WanZhengLsInfo.Ls_id));
-//                sb.AppendLine(string.Format("品名 "));
-//                sb.AppendLine(string.Format("折扣   数量   售价   合计"));
-//                sb.AppendLine(string.Format("------------------------------"));
-//                foreach (var item in kklist)
-//                {
-//                    sb.AppendLine(string.Format("{0}", item.H_name));
-//                    sb.AppendLine(string.Format("{0}{1}{2}{3:c2}", string.Format("{0:0.00%}", item.H_output_discount_ls).PadRight(6, ' '), string.Format("  {0:n0}", item.H_amount).PadRight(6, ' '), string.Format("{0:c2}", item.H_output_price).PadRight(8, ' '), item.H_output_price* item.H_output_discount_ls * item.H_amount));
-//                }
-//                sb.AppendLine(string.Format("------------------------------"));
-//                sb.AppendLine(string.Format("总数量   总码洋   总实洋"));
-//                sb.AppendLine(string.Format("{0}  {1}  {2}", string.Format("{0:n0}", WanZhengLsInfo.Total_amount).PadRight(8, ' '), string.Format("{0:c2}", WanZhengLsInfo.Total_money).PadRight(8, ' '), string.Format("{0:c2}", WanZhengLsInfo.Real_money).PadRight(8, ' ')));
-//                sb.AppendLine(string.Format("------------------------------"));
-//                sb.AppendLine(string.Format("支付方式:{0}", string.IsNullOrEmpty(pay_name) ? pay_name : pay_name));
-//                if (cdmember != null && !string.IsNullOrEmpty(cdmember.M_id))
-//                {
-//                    sb.AppendLine(string.Format("会员名称:{0}", string.IsNullOrEmpty(cdmember.M_name) ? "" : cdmember.M_name));
-//                    sb.AppendLine(string.Format("会员积分:{0}", string.IsNullOrEmpty(cdmember.Integral.ToString("n2")) ? "" : cdmember.Integral.ToString("n2")));
-//                    sb.AppendLine(string.Format("会员卡内余额:{0}", string.IsNullOrEmpty(cdmember.SurplusMoney) ? "" : string.Format("{0:c2}", cdmember.SurplusMoney)));
-//                }
-//                sb.AppendLine(string.Format("品种:{0}应收:{1}", string.Format("{0:n0}", WanZhengLsInfo.Total_amount).PadRight(14, ' '), string.Format("{0:c2}", Ls_Sum)));
-//                sb.AppendLine(string.Format("收银:{0}实收:{1}", string.Format("{0}", Portal.gc.loginUserInfo.O_Name).PadRight(14, ' '), string.Format("{0:c2}", paymoney)));
-//                sb.AppendLine(string.Format("费用:{0}找零:{1}", string.Format("{0:c2}", SubMoney).PadRight(14, ' '), string.Format("{0:c2}", changemoney)));
-//                sb.AppendLine(string.Format("台号:{0}站点:{1}", string.Format("{0}", Portal.gc.loginUserInfo.Yh_stand_id).PadRight(14, ' '), Portal.gc.loginUserInfo.Station_ID));
-//                sb.AppendLine(string.Format("日期:{0:yyyy-MM-dd HH:mm:ss}", WanZhengLsInfo.Ls_datetime));
-//                if (!string.IsNullOrEmpty(possetup.Wei1))
-//                {
-//                    sb.AppendLine(string.Format("{0}", possetup.Wei1));
-//                }
-//                if (!string.IsNullOrEmpty(possetup.Wei2))
-//                {
-//                    sb.AppendLine(string.Format("{0}", possetup.Wei2));
-//                }
-//                if (!string.IsNullOrEmpty(possetup.Wei3))
-//                {
-//                    sb.AppendLine(string.Format("{0}", possetup.Wei3));
-//                }
-//                if (!string.IsNullOrEmpty(possetup.Wei4))
-//                {
-//                    sb.AppendLine(string.Format("{0}", possetup.Wei4));
-//                }
-
-//                e.Graphics.DrawString(sb.ToString(), f, fbrush, new Rectangle(3, 3, (int)(58 / 25.4) * 100, Height), sf);//this.ClientRectangle
-
-//            }
-//            catch (Exception ex)
-//            {
-//                MessagboxUit.ShowTips(ex.Message);
-//            }
-           
-
-        //}
+       
         
 
 
