@@ -207,7 +207,7 @@ namespace MainFrom
 
         private void barButtonItem2_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
-            if(Portal.gc.loginUserInfo.O_Name == "administrator" && Portal.gc.loginUserInfo.O_id == "1")
+            if(Portal.gc.loginUserInfo.O_Name == "administrator" && Portal.gc.loginUserInfo.O_id.Trim() == "1")
             {
                 foreach (Form childrenForm in this.MdiChildren)
                 {

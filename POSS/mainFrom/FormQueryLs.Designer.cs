@@ -241,18 +241,19 @@
             this.winGridView2.DisplayColumns = "";
             this.winGridView2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.winGridView2.EnableEdit = false;
-            this.winGridView2.EnableMenu = true;
+            this.winGridView2.EnableMenu = false;
             this.winGridView2.HaveProduct = false;
             this.winGridView2.Location = new System.Drawing.Point(2, 2);
             this.winGridView2.Name = "winGridView2";
             this.winGridView2.PrintTitle = "";
-            this.winGridView2.ShowAddMenu = true;
+            this.winGridView2.ShowAddMenu = false;
             this.winGridView2.ShowBianSe = true;
             this.winGridView2.ShowBianSe2 = true;
             this.winGridView2.ShowCheckBox = false;
-            this.winGridView2.ShowDeleteMenu = true;
-            this.winGridView2.ShowEditMenu = true;
-            this.winGridView2.ShowExportButton = true;
+            this.winGridView2.ShowDeleteMenu = false;
+            this.winGridView2.ShowEditMenu = false;
+            this.winGridView2.ShowExportButton = false;
+            this.winGridView2.ShowFooter = true;
             this.winGridView2.Size = new System.Drawing.Size(235, 404);
             this.winGridView2.TabIndex = 0;
             // 
