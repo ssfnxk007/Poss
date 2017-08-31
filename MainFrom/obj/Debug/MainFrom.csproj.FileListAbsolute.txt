@@ -12,3 +12,15 @@ D:\weixingPay\POSS\POSS\MainFrom\obj\Debug\MainFrom.exe
 D:\weixingPay\POSS\POSS\MainFrom\obj\Debug\MainFrom.pdb
 D:\weixingPay\POSS\POSS\MainFrom\obj\Debug\MainFrom.BaseDock.resources
 D:\weixingPay\POSS\POSS\POSS\bin\Debug\MainFrom.exe.config
+D:\github\POSS\Poss\POSS\bin\Debug\MainFrom.exe.config
+D:\github\POSS\Poss\POSS\bin\Debug\MainFrom.exe
+D:\github\POSS\Poss\POSS\bin\Debug\MainFrom.pdb
+D:\github\POSS\Poss\MainFrom\obj\Debug\MainFrom.csprojResolveAssemblyReference.cache
+D:\github\POSS\Poss\MainFrom\obj\Debug\MainFrom.BaseDock.resources
+D:\github\POSS\Poss\MainFrom\obj\Debug\MainFrom.FormMain.resources
+D:\github\POSS\Poss\MainFrom\obj\Debug\MainFrom.Properties.Resources.resources
+D:\github\POSS\Poss\MainFrom\obj\Debug\MainFrom.csproj.GenerateResource.Cache
+D:\github\POSS\Poss\MainFrom\obj\Debug\MainFrom.exe.licenses
+D:\github\POSS\Poss\MainFrom\obj\Debug\MainFrom.exe
+D:\github\POSS\Poss\MainFrom\obj\Debug\MainFrom.pdb
+D:\github\POSS\Poss\MainFrom\obj\Debug\MainFrom.login.resources

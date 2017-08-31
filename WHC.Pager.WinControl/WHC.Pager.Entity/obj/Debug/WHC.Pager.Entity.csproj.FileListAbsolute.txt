@@ -14,3 +14,8 @@ D:\weixingPay\POSS\POSS\WHC.Pager.WinControl\WHC.Pager.Entity\bin\Debug\WHC.Page
 D:\weixingPay\POSS\POSS\WHC.Pager.WinControl\WHC.Pager.Entity\bin\Debug\WHC.Pager.Entity.pdb
 D:\weixingPay\POSS\POSS\WHC.Pager.WinControl\WHC.Pager.Entity\obj\Debug\WHC.Pager.Entity.dll
 D:\weixingPay\POSS\POSS\WHC.Pager.WinControl\WHC.Pager.Entity\obj\Debug\WHC.Pager.Entity.pdb
+D:\github\POSS\Poss\WHC.Pager.WinControl\WHC.Pager.Entity\bin\Debug\WHC.Pager.Entity.dll
+D:\github\POSS\Poss\WHC.Pager.WinControl\WHC.Pager.Entity\bin\Debug\WHC.Pager.Entity.pdb
+D:\github\POSS\Poss\WHC.Pager.WinControl\WHC.Pager.Entity\obj\Debug\WHC.Pager.Entity.dll
+D:\github\POSS\Poss\WHC.Pager.WinControl\WHC.Pager.Entity\obj\Debug\WHC.Pager.Entity.pdb
+D:\github\POSS\Poss\WHC.Pager.WinControl\WHC.Pager.Entity\obj\Debug\WHC.Pager.Entity.csprojResolveAssemblyReference.cache

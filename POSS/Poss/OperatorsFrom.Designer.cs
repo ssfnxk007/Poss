@@ -168,6 +168,7 @@
             this.cb_oper.Name = "cb_oper";
             this.cb_oper.Size = new System.Drawing.Size(175, 22);
             this.cb_oper.TabIndex = 4;
+            this.cb_oper.SelectedIndexChanged += new System.EventHandler(this.cb_oper_SelectedIndexChanged);
             // 
             // layoutControlGroup1
             // 

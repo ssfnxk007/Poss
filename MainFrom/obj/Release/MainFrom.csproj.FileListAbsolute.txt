@@ -9,3 +9,15 @@ D:\weixingPay\POSS\POSS\MainFrom\obj\Release\MainFrom.exe.licenses
 D:\weixingPay\POSS\POSS\MainFrom\obj\Release\MainFrom.exe
 D:\weixingPay\POSS\POSS\MainFrom\obj\Release\MainFrom.pdb
 D:\weixingPay\POSS\POSS\MainFrom\obj\Release\MainFrom.BaseDock.resources
+D:\github\POSS\Poss\POSS\bin\Release\MainFrom.exe.config
+D:\github\POSS\Poss\POSS\bin\Release\MainFrom.exe
+D:\github\POSS\Poss\POSS\bin\Release\MainFrom.pdb
+D:\github\POSS\Poss\MainFrom\obj\Release\MainFrom.csprojResolveAssemblyReference.cache
+D:\github\POSS\Poss\MainFrom\obj\Release\MainFrom.BaseDock.resources
+D:\github\POSS\Poss\MainFrom\obj\Release\MainFrom.FormMain.resources
+D:\github\POSS\Poss\MainFrom\obj\Release\MainFrom.login.resources
+D:\github\POSS\Poss\MainFrom\obj\Release\MainFrom.Properties.Resources.resources
+D:\github\POSS\Poss\MainFrom\obj\Release\MainFrom.csproj.GenerateResource.Cache
+D:\github\POSS\Poss\MainFrom\obj\Release\MainFrom.exe.licenses
+D:\github\POSS\Poss\MainFrom\obj\Release\MainFrom.exe
+D:\github\POSS\Poss\MainFrom\obj\Release\MainFrom.pdb

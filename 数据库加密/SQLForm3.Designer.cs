@@ -28,8 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(SQLForm3));
             this.panelControl1 = new DevExpress.XtraEditors.PanelControl();
             this.layoutControl1 = new DevExpress.XtraLayout.LayoutControl();
+            this.t_port = new DevExpress.XtraEditors.TextEdit();
             this.t_book = new DevExpress.XtraEditors.TextEdit();
             this.t_ip = new DevExpress.XtraEditors.TextEdit();
             this.t_pass = new DevExpress.XtraEditors.TextEdit();
@@ -39,15 +41,15 @@
             this.layoutControlItem2 = new DevExpress.XtraLayout.LayoutControlItem();
             this.layoutControlItem3 = new DevExpress.XtraLayout.LayoutControlItem();
             this.layoutControlItem4 = new DevExpress.XtraLayout.LayoutControlItem();
+            this.layoutControlItem5 = new DevExpress.XtraLayout.LayoutControlItem();
             this.panelControl2 = new DevExpress.XtraEditors.PanelControl();
             this.simpleButton2 = new DevExpress.XtraEditors.SimpleButton();
             this.simpleButton1 = new DevExpress.XtraEditors.SimpleButton();
-            this.t_port = new DevExpress.XtraEditors.TextEdit();
-            this.layoutControlItem5 = new DevExpress.XtraLayout.LayoutControlItem();
             ((System.ComponentModel.ISupportInitialize)(this.panelControl1)).BeginInit();
             this.panelControl1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.layoutControl1)).BeginInit();
             this.layoutControl1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.t_port.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.t_book.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.t_ip.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.t_pass.Properties)).BeginInit();
@@ -57,10 +59,9 @@
             ((System.ComponentModel.ISupportInitialize)(this.layoutControlItem2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.layoutControlItem3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.layoutControlItem4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.layoutControlItem5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.panelControl2)).BeginInit();
             this.panelControl2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.t_port.Properties)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.layoutControlItem5)).BeginInit();
             this.SuspendLayout();
             // 
             // panelControl1
@@ -86,6 +87,14 @@
             this.layoutControl1.Size = new System.Drawing.Size(385, 187);
             this.layoutControl1.TabIndex = 0;
             this.layoutControl1.Text = "layoutControl1";
+            // 
+            // t_port
+            // 
+            this.t_port.Location = new System.Drawing.Point(87, 84);
+            this.t_port.Name = "t_port";
+            this.t_port.Size = new System.Drawing.Size(286, 20);
+            this.t_port.StyleController = this.layoutControl1;
+            this.t_port.TabIndex = 8;
             // 
             // t_book
             // 
@@ -175,6 +184,16 @@
             this.layoutControlItem4.Text = "数据库名称：";
             this.layoutControlItem4.TextSize = new System.Drawing.Size(72, 14);
             // 
+            // layoutControlItem5
+            // 
+            this.layoutControlItem5.Control = this.t_port;
+            this.layoutControlItem5.CustomizationFormText = "端口号:";
+            this.layoutControlItem5.Location = new System.Drawing.Point(0, 72);
+            this.layoutControlItem5.Name = "layoutControlItem5";
+            this.layoutControlItem5.Size = new System.Drawing.Size(365, 24);
+            this.layoutControlItem5.Text = "端口号:";
+            this.layoutControlItem5.TextSize = new System.Drawing.Size(72, 14);
+            // 
             // panelControl2
             // 
             this.panelControl2.Controls.Add(this.simpleButton2);
@@ -203,24 +222,6 @@
             this.simpleButton1.Text = "应 用";
             this.simpleButton1.Click += new System.EventHandler(this.simpleButton1_Click);
             // 
-            // t_port
-            // 
-            this.t_port.Location = new System.Drawing.Point(87, 84);
-            this.t_port.Name = "t_port";
-            this.t_port.Size = new System.Drawing.Size(286, 20);
-            this.t_port.StyleController = this.layoutControl1;
-            this.t_port.TabIndex = 8;
-            // 
-            // layoutControlItem5
-            // 
-            this.layoutControlItem5.Control = this.t_port;
-            this.layoutControlItem5.CustomizationFormText = "端口号:";
-            this.layoutControlItem5.Location = new System.Drawing.Point(0, 72);
-            this.layoutControlItem5.Name = "layoutControlItem5";
-            this.layoutControlItem5.Size = new System.Drawing.Size(365, 24);
-            this.layoutControlItem5.Text = "端口号:";
-            this.layoutControlItem5.TextSize = new System.Drawing.Size(72, 14);
-            // 
             // SQLForm3
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
@@ -228,6 +229,7 @@
             this.ClientSize = new System.Drawing.Size(389, 191);
             this.Controls.Add(this.panelControl2);
             this.Controls.Add(this.panelControl1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "SQLForm3";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "连接数据库";
@@ -236,6 +238,7 @@
             this.panelControl1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.layoutControl1)).EndInit();
             this.layoutControl1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.t_port.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.t_book.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.t_ip.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.t_pass.Properties)).EndInit();
@@ -245,10 +248,9 @@
             ((System.ComponentModel.ISupportInitialize)(this.layoutControlItem2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.layoutControlItem3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.layoutControlItem4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.layoutControlItem5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.panelControl2)).EndInit();
             this.panelControl2.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.t_port.Properties)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.layoutControlItem5)).EndInit();
             this.ResumeLayout(false);
 
         }

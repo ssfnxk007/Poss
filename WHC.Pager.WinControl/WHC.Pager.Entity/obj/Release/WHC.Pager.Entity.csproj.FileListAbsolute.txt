@@ -1,3 +1,5 @@
 D:\weixingPay\POSS\POSS\WHC.Pager.WinControl\WHC.Pager.Entity\bin\Release\WHC.Pager.Entity.dll
 D:\weixingPay\POSS\POSS\POSS\bin\Release\WHC.Pager.Entity.dll
 D:\weixingPay\POSS\POSS\WHC.Pager.WinControl\WHC.Pager.Entity\obj\Release\WHC.Pager.Entity.dll
+D:\github\POSS\Poss\POSS\bin\Release\WHC.Pager.Entity.dll
+D:\github\POSS\Poss\WHC.Pager.WinControl\WHC.Pager.Entity\obj\Release\WHC.Pager.Entity.dll

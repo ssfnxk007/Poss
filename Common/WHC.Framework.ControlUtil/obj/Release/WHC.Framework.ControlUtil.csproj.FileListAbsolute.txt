@@ -119,3 +119,10 @@ D:\weixingPay\POSS\POSS\Common\WHC.Framework.ControlUtil\obj\Release\Interop.VBI
 D:\weixingPay\POSS\POSS\Common\WHC.Framework.ControlUtil\obj\Release\WHC.Framework.ControlUtil.csproj.ResolveComReference.cache
 D:\weixingPay\POSS\POSS\Common\WHC.Framework.ControlUtil\obj\Release\WHC.Framework.ControlUtil.dll
 D:\weixingPay\POSS\POSS\Common\WHC.Framework.ControlUtil\obj\Release\WHC.Framework.ControlUtil.pdb
+D:\github\POSS\Poss\POSS\bin\Release\WHC.Framework.ControlUtil.dll
+D:\github\POSS\Poss\POSS\bin\Release\WHC.Framework.ControlUtil.pdb
+D:\github\POSS\Poss\Common\WHC.Framework.ControlUtil\obj\Release\WHC.Framework.ControlUtil.csprojResolveAssemblyReference.cache
+D:\github\POSS\Poss\Common\WHC.Framework.ControlUtil\obj\Release\Interop.VBIDE.dll
+D:\github\POSS\Poss\Common\WHC.Framework.ControlUtil\obj\Release\WHC.Framework.ControlUtil.csproj.ResolveComReference.cache
+D:\github\POSS\Poss\Common\WHC.Framework.ControlUtil\obj\Release\WHC.Framework.ControlUtil.dll
+D:\github\POSS\Poss\Common\WHC.Framework.ControlUtil\obj\Release\WHC.Framework.ControlUtil.pdb

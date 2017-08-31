@@ -101,3 +101,8 @@ D:\weixingPay\POSS\POSS\POSS\bin\Release\POSS.CommonsHelper.pdb
 D:\weixingPay\POSS\POSS\CommonsHelper\obj\Release\CommonsHelper.csprojResolveAssemblyReference.cache
 D:\weixingPay\POSS\POSS\CommonsHelper\obj\Release\POSS.CommonsHelper.dll
 D:\weixingPay\POSS\POSS\CommonsHelper\obj\Release\POSS.CommonsHelper.pdb
+D:\github\POSS\Poss\POSS\bin\Release\POSS.CommonsHelper.dll
+D:\github\POSS\Poss\POSS\bin\Release\POSS.CommonsHelper.pdb
+D:\github\POSS\Poss\CommonsHelper\obj\Release\CommonsHelper.csprojResolveAssemblyReference.cache
+D:\github\POSS\Poss\CommonsHelper\obj\Release\POSS.CommonsHelper.dll
+D:\github\POSS\Poss\CommonsHelper\obj\Release\POSS.CommonsHelper.pdb

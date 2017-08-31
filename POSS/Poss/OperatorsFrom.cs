@@ -24,6 +24,15 @@ namespace POSS
         private void OperatorsFrom_Load(object sender, EventArgs e)
         {
             InitDropDown();
+            this.cb_isword.Enabled = false;
+            //this.cb_oper.Enabled = false;
+            this.cb_sl.Enabled = false;
+            this.cb_stand.Enabled = false;
+            this.cb_station.Enabled = false;
+            this.cb_stock.Enabled = false;
+            this.cb_zk.Enabled = false;
+            this.cb_zl.Enabled = false;
+            this.tb_pass.Enabled = false;
         }
 
 
@@ -120,7 +129,32 @@ namespace POSS
         /// <param name="o_id"></param>
         private void GetUsers(string o_id)
         {
-            //TODO:获取用户信息用于显示
+            
+        }
+
+        private void cb_oper_SelectedIndexChanged(object sender, EventArgs e)
+        {
+         UsersInfo k=   BLLFactory<Users>.Instance.FindByID(this.cb_oper.SelectedValue.ToString().Trim());
+            if (k == null) return;
+            this.cb_isword.Enabled = true;
+            //this.cb_oper.Enabled = true;
+            this.cb_sl.Enabled = true;
+            this.cb_stand.Enabled = true;
+            this.cb_station.Enabled = true;
+            this.cb_stock.Enabled = true;
+            this.cb_zk.Enabled = true;
+            this.cb_zl.Enabled = true;
+            this.tb_pass.Enabled = true;
+
+
+            this.cb_oper.SelectedValue = k.O_id;
+            this.cb_sl.SelectedValue = k.Is_sl;
+            this.cb_stand.SelectedValue = k.Yh_stand_id;
+            this.cb_station.SelectedValue = k.Station_id;
+            this.cb_stock.SelectedValue = k.Stock_id;
+            this.cb_zk.SelectedValue = k.Is_zk;
+            this.cb_zl.SelectedValue = k.Is_zl;
+            this.cb_isword.SelectedValue = k.Is_word;
         }
     }
 }

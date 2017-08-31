@@ -31,6 +31,7 @@ namespace POSS
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(login));
             this.skinPanel1 = new CCWin.SkinControl.SkinPanel();
             this.CB_1 = new CCWin.SkinControl.SkinComboBox();
             this.skinButton3 = new CCWin.SkinControl.SkinButton();
@@ -189,6 +190,7 @@ namespace POSS
             // 
             this.ClientSize = new System.Drawing.Size(469, 314);
             this.Controls.Add(this.skinPanel1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.KeyPreview = true;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
