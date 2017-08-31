@@ -175,6 +175,12 @@
     <Compile Include="JiaoBanForm.Designer.cs">
       <DependentUpon>JiaoBanForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="mainFrom\FormQueryLs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mainFrom\FormQueryLs.Designer.cs">
+      <DependentUpon>FormQueryLs.cs</DependentUpon>
+    </Compile>
     <Compile Include="mainFrom\Member_TypeFrom.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -323,6 +329,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="JiaoBanForm.resx">
       <DependentUpon>JiaoBanForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainFrom\FormQueryLs.resx">
+      <DependentUpon>FormQueryLs.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="mainFrom\Member_TypeFrom.resx">
       <DependentUpon>Member_TypeFrom.cs</DependentUpon>

@@ -322,3 +322,4 @@ D:\github\POSS\Poss\Common\WHC.Framework.Commons\obj\Release\WHC.Framework.Commo
 D:\github\POSS\Poss\Common\WHC.Framework.Commons\obj\Release\WHC.Framework.Commons.dll.licenses
 D:\github\POSS\Poss\Common\WHC.Framework.Commons\obj\Release\WHC.Framework.Commons.dll
 D:\github\POSS\Poss\Common\WHC.Framework.Commons\obj\Release\WHC.Framework.Commons.pdb
+D:\github\POSS\Poss\Common\WHC.Framework.Commons\obj\Release\WHC.Framework.Commons.csprojResolveAssemblyReference.cache

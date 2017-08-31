@@ -334,3 +334,4 @@ D:\github\POSS\Poss\POSS\obj\Debug\POSS.csproj.GenerateResource.Cache
 D:\github\POSS\Poss\POSS\obj\Debug\POSS.UI.exe.licenses
 D:\github\POSS\Poss\POSS\obj\Debug\POSS.UI.exe
 D:\github\POSS\Poss\POSS\obj\Debug\POSS.UI.pdb
+D:\github\POSS\Poss\POSS\obj\Debug\POSS.FormQueryLs.resources

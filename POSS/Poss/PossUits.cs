@@ -1731,7 +1731,7 @@ namespace POSS
                 }
                 else
                 {
-                    if (Portal.gc.loginUserInfo.O_Name != "administrator")
+                    if (Portal.gc.loginUserInfo.O_Name != "administrator" && Portal.gc.loginUserInfo.O_id.Trim() != "1")
                     {
 
                         if (MessagboxUit.ShowYesNoAndTips("批号不存在！是否请增批号？") == DialogResult.Yes)
@@ -2220,7 +2220,7 @@ namespace POSS
         {
             if (systemform == null || systemform.IsDisposed)
             {
-                if (Portal.gc.loginUserInfo.O_Name == "administrator")
+                if (Portal.gc.loginUserInfo.O_Name == "administrator" && Portal.gc.loginUserInfo.O_id.Trim() == "1")
                 {
                     systemform = new SystemFrom();
                     systemform.Show(this);
@@ -3282,7 +3282,7 @@ namespace POSS
         {
             if (systemform == null || systemform.IsDisposed)
             {
-                if (Portal.gc.loginUserInfo.O_Name == "administrator")
+                if (Portal.gc.loginUserInfo.O_Name == "administrator" && Portal.gc.loginUserInfo.O_id.Trim() == "1")
                 {
                     systemform = new SystemFrom();
                     systemform.Show(this);
@@ -3299,7 +3299,7 @@ namespace POSS
 
         private void 员工设置ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            if (Portal.gc.loginUserInfo.O_Name == "administrator")
+            if (Portal.gc.loginUserInfo.O_Name == "administrator" && Portal.gc.loginUserInfo.O_id.Trim()=="1")
             {
                 if (temform == null || temform.IsDisposed)//判断窗体是否打开了
                 {

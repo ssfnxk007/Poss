@@ -49,6 +49,8 @@ namespace POSS
                 info.JiaoKuanMoney = this.t_xianjin.Text.Trim().ToDecimal();
                 info.JiaoBanDateTime = DateTime.Now;
                 info.Is_Jk = "1";
+                info.Beizhu = this.t_beizhu.Text.Trim();
+                info.Feiyong = this.t_feiyong.Text.Trim().ToDecimal();
                 if(BLLFactory<DangBan>.Instance.Update(info, info.ID))
                 {
                     MessagboxUit.ShowTips("交款成功！下班请注意安全~！");

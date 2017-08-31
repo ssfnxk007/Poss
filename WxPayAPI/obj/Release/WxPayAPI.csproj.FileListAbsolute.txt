@@ -14,3 +14,4 @@ D:\github\POSS\Poss\POSS\bin\Release\WxPayAPI.dll
 D:\github\POSS\Poss\POSS\bin\Release\WxPayAPI.pdb
 D:\github\POSS\Poss\WxPayAPI\obj\Release\WxPayAPI.dll
 D:\github\POSS\Poss\WxPayAPI\obj\Release\WxPayAPI.pdb
+D:\github\POSS\Poss\WxPayAPI\obj\Release\WxPayAPI.csprojResolveAssemblyReference.cache

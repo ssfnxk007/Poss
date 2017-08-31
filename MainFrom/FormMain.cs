@@ -1,11 +1,13 @@
 ﻿using DevExpress.XtraBars.Ribbon;
 using POSS;
+using POSS.Entity;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using WHC.Framework.Commons;
 
 namespace MainFrom
 {
@@ -103,6 +105,7 @@ namespace MainFrom
             this.barButtonItem2.Id = 4;
             this.barButtonItem2.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("barButtonItem2.LargeGlyph")));
             this.barButtonItem2.Name = "barButtonItem2";
+            this.barButtonItem2.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonItem2_ItemClick);
             // 
             // ribbonPage1
             // 
@@ -170,6 +173,8 @@ namespace MainFrom
         public FormMain()
         {
             InitializeComponent();
+            Portal.gc.loginUserInfo = Cache.Instance["loginUserInfo"] as LoginUserInfo;//取出缓存里的值
+            Portal.gc.QPossConfig = Cache.Instance["QPossConfig"] as QueryPossConfig;
             this.FormClosing += FormMain_FormClosing;
         }
 
@@ -198,6 +203,33 @@ namespace MainFrom
             jh.Show();
             jh.WindowState = FormWindowState.Maximized;
             this.ribbonPage1.Text = "定价算折扣";
+        }
+
+        private void barButtonItem2_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            if(Portal.gc.loginUserInfo.O_Name == "administrator" && Portal.gc.loginUserInfo.O_id == "1")
+            {
+                foreach (Form childrenForm in this.MdiChildren)
+                {
+                    if (childrenForm.Name == "FormQueryLs")
+                    {
+                        childrenForm.Visible = true;
+                        childrenForm.Activate();
+                        this.ribbonPage1.Text = "交班";
+                        return;
+                    }
+                }
+                FormQueryLs jh = new FormQueryLs();
+                jh.MdiParent = this;
+                jh.Show();
+                jh.WindowState = FormWindowState.Maximized;
+                this.ribbonPage1.Text = "交班";
+            }
+            else
+            {
+                MessagboxUit.ShowError("请用超级管理员登录！");
+            }
+            
         }
     }
 }
