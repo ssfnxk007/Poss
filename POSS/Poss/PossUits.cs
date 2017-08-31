@@ -118,9 +118,7 @@ namespace POSS
         private PageSetupDialog pagesetupdialog;
         #endregion
 
-        #region 打印机所用
-        
-        #endregion
+       
 
         private OperatorsFrom temform = null;//全局窗体变量(设置窗体)
         private SystemFrom systemform = null;
@@ -1528,9 +1526,7 @@ namespace POSS
             this.winGridView1.GridView1.RowClick += GridView1_RowClick;//点击行事件
             this.KeyDown += PossUits_KeyDown;//键盘事件
 
-            #region 收银表格设置
-
-            #endregion
+           
         }
 
 
@@ -1678,6 +1674,7 @@ namespace POSS
             if (Portal.gc.loginUserInfo.is_sl == "0")//控制 员工是否可以修改数量与折扣
             {
                 this.winGridView1.ReadOnlyList.Add("H_amount");
+                
             }
             if (Portal.gc.loginUserInfo.is_zk == "0")
             {
@@ -2503,7 +2500,7 @@ namespace POSS
         /// <param name="e"></param>
         private void bt_delete_Click(object sender, EventArgs e)
         {
-            if (Portal.gc.loginUserInfo.is_zl.Trim() != "0")// 判断是否有置零权
+            if (Portal.gc.loginUserInfo.is_zl.Trim() != "0" && Portal.gc.loginUserInfo.is_sl == "0")// 判断是否有置零权
             {
                 int rowIndex = winGridView1.GridView1.FocusedRowHandle;
                 if (rowIndex >= 0)
