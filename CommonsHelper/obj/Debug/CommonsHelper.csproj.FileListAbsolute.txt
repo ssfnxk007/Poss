@@ -215,3 +215,6 @@ D:\github\POSS\Poss\CommonsHelper\bin\Debug\ru\DevExpress.Office.v14.2.Core.reso
 D:\github\POSS\Poss\CommonsHelper\obj\Debug\CommonsHelper.csprojResolveAssemblyReference.cache
 D:\github\POSS\Poss\CommonsHelper\obj\Debug\POSS.CommonsHelper.dll
 D:\github\POSS\Poss\CommonsHelper\obj\Debug\POSS.CommonsHelper.pdb
+D:\github\POSS\Poss\CommonsHelper\bin\Debug\DotRas.xml
+D:\github\POSS\Poss\CommonsHelper\bin\Debug\Newtonsoft.Json.xml
+D:\github\POSS\Poss\CommonsHelper\bin\Debug\NPOI.xml

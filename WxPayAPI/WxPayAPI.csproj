@@ -43,7 +43,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="LitJson">
-      <HintPath>..\..\121414\POSS\WxPayAPI\bin\LitJson.dll</HintPath>
+      <HintPath>..\Lib\LitJson.dll</HintPath>
     </Reference>
     <Reference Include="QuickMark">
       <HintPath>..\..\WxPayDemo\WxPayDemo\bin\QuickMark.dll</HintPath>

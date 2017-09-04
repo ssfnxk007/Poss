@@ -64,14 +64,15 @@
     <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Aspose.Cells">
+    <Reference Include="Aspose.Cells, Version=4.8.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\Lib\Aspose.Cells.dll</HintPath>
     </Reference>
     <Reference Include="Aspose.Words">
-      <HintPath>..\Lib\Aspose.Words.dll</HintPath>
+      <HintPath>..\..\Lib\Aspose.Words.dll</HintPath>
     </Reference>
     <Reference Include="DotRas">
-      <HintPath>..\..\..\121414\POSS\WHC.Pager.WinControl\WHC.Pager.WinControlDx\bin\Debug\DotRas.dll</HintPath>
+      <HintPath>..\..\Lib\DotRas.dll</HintPath>
     </Reference>
     <Reference Include="EntLibContrib.Data.MySql">
       <HintPath>..\..\Reference\EntLibContrib.Data.MySql.dll</HintPath>
@@ -80,44 +81,44 @@
       <HintPath>..\..\Reference\EntLibContrib.Data.SQLite.dll</HintPath>
     </Reference>
     <Reference Include="ICSharpCode.SharpZipLib">
-      <HintPath>..\..\..\121414\POSS\WHC.Pager.WinControl\WHC.Pager.WinControlDx\bin\Debug\ICSharpCode.SharpZipLib.dll</HintPath>
+      <HintPath>..\..\Lib\ICSharpCode.SharpZipLib.dll</HintPath>
     </Reference>
     <Reference Include="Ionic.Zip">
       <HintPath>..\..\Reference\Ionic.Zip.dll</HintPath>
     </Reference>
     <Reference Include="log4net">
-      <HintPath>..\..\..\121414\POSS\WHC.Pager.WinControl\WHC.Pager.WinControlDx\bin\Debug\log4net.dll</HintPath>
+      <HintPath>..\..\Lib\log4net.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Practices.EnterpriseLibrary.Common">
-      <HintPath>..\..\..\121414\POSS\WHC.Pager.WinControl\WHC.Pager.WinControlDx\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll</HintPath>
+      <HintPath>..\..\Lib\Microsoft.Practices.EnterpriseLibrary.Common.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Practices.EnterpriseLibrary.Data">
-      <HintPath>..\..\..\121414\POSS\WHC.Pager.WinControl\WHC.Pager.WinControlDx\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll</HintPath>
+      <HintPath>..\..\Lib\Microsoft.Practices.EnterpriseLibrary.Data.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Practices.ObjectBuilder">
-      <HintPath>..\..\Reference\Microsoft.Practices.ObjectBuilder.dll</HintPath>
+      <HintPath>..\..\Lib\Microsoft.Practices.ObjectBuilder.dll</HintPath>
     </Reference>
     <Reference Include="MySql.Data">
-      <HintPath>..\..\..\121414\POSS\WHC.Pager.WinControl\WHC.Pager.WinControlDx\bin\Debug\MySql.Data.dll</HintPath>
+      <HintPath>..\..\Lib\MySql.Data.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>..\..\..\121414\POSS\WHC.Pager.WinControl\WHC.Pager.WinControlDx\bin\Debug\Newtonsoft.Json.dll</HintPath>
+      <HintPath>..\..\Lib\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="NPOI">
-      <HintPath>..\..\..\121414\POSS\WHC.Pager.WinControl\WHC.Pager.WinControlDx\bin\Debug\NPOI.dll</HintPath>
+      <HintPath>..\..\Lib\NPOI.dll</HintPath>
     </Reference>
     <Reference Include="NVelocity">
-      <HintPath>..\..\..\121414\POSS\WHC.Pager.WinControl\WHC.Pager.WinControlDx\bin\Debug\NVelocity.dll</HintPath>
+      <HintPath>..\..\Lib\NVelocity.dll</HintPath>
     </Reference>
     <Reference Include="org.in2bits.MyXls">
-      <HintPath>..\..\..\121414\POSS\WHC.Pager.WinControl\WHC.Pager.WinControlDx\bin\Debug\org.in2bits.MyXls.dll</HintPath>
+      <HintPath>..\..\Lib\org.in2bits.MyXls.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data.OracleClient" />
     <Reference Include="System.Data.SQLite">
-      <HintPath>..\..\..\121414\POSS\WHC.Pager.WinControl\WHC.Pager.WinControlDx\bin\Debug\System.Data.SQLite.dll</HintPath>
+      <HintPath>..\..\Lib\System.Data.SQLite.dll</HintPath>
     </Reference>
     <Reference Include="System.Drawing" />
     <Reference Include="System.Runtime.Serialization" />

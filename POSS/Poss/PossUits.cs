@@ -2500,8 +2500,8 @@ namespace POSS
         /// <param name="e"></param>
         private void bt_delete_Click(object sender, EventArgs e)
         {
-            if (Portal.gc.loginUserInfo.is_zl.Trim() != "0" && Portal.gc.loginUserInfo.is_sl == "0")// 判断是否有置零权
-            {
+            //if (Portal.gc.loginUserInfo.is_zl.Trim() == "1" && Portal.gc.loginUserInfo.is_sl.Trim() == "0")// 判断是否有置零权
+            //{
                 int rowIndex = winGridView1.GridView1.FocusedRowHandle;
                 if (rowIndex >= 0)
                 {
@@ -2513,7 +2513,7 @@ namespace POSS
                     SetGeShi();
                     ComputeTotal();
                     winGridView1.gridView1.RefreshData();
-                }
+                //}
             }
             else
             {
@@ -3217,16 +3217,16 @@ namespace POSS
                 sb.AppendLine(string.Format("单号：{0}", WanZhengLsInfo.Ls_id));
                 sb.AppendLine(string.Format("品名 "));
                 sb.AppendLine(string.Format("折扣   数量   售价   合计"));
-                sb.AppendLine(string.Format("------------------------------"));
+                sb.AppendLine(string.Format("----------------------------"));
                 foreach (var item in kklist)
                 {
                     sb.AppendLine(string.Format("{0}", AutomaticLine(item.H_name,22,28)));
                     sb.AppendLine(string.Format("{0}{1}{2}{3:c2}", string.Format("{0:0.00%}", item.H_output_discount_ls).PadRight(6, ' '), string.Format("  {0:n0}", item.H_amount).PadRight(6, ' '), string.Format("{0:c2}", item.H_output_price).PadRight(8, ' '), item.H_output_price * item.H_output_discount_ls * item.H_amount));
                 }
-                sb.AppendLine(string.Format("------------------------------"));
+                sb.AppendLine(string.Format("----------------------------"));
                 sb.AppendLine(string.Format("总数量   总码洋   总实洋"));
                 sb.AppendLine(string.Format("{0}  {1}  {2}", string.Format("{0:n0}", WanZhengLsInfo.Total_amount).PadRight(8, ' '), string.Format("{0:c2}", WanZhengLsInfo.Total_money).PadRight(8, ' '), string.Format("{0:c2}", WanZhengLsInfo.Real_money).PadRight(8, ' ')));
-                sb.AppendLine(string.Format("------------------------------"));
+                sb.AppendLine(string.Format("----------------------------"));
                 sb.AppendLine(string.Format("支付方式:{0}", string.IsNullOrEmpty(pay_name) ? pay_name : pay_name));
                 if (cdmember != null && !string.IsNullOrEmpty(cdmember.M_id))
                 {

@@ -173,7 +173,6 @@ D:\github\POSS\Poss\POSS\bin\Debug\POSS.UI.pdb
 D:\github\POSS\Poss\POSS\bin\Debug\Aspose.Cells.dll
 D:\github\POSS\Poss\POSS\bin\Debug\DevExpress.BonusSkins.v14.2.dll
 D:\github\POSS\Poss\POSS\bin\Debug\DevExpress.Data.v14.2.dll
-D:\github\POSS\Poss\POSS\bin\Debug\DevExpress.Printing.v13.1.Core.dll
 D:\github\POSS\Poss\POSS\bin\Debug\DevExpress.Printing.v14.2.Core.dll
 D:\github\POSS\Poss\POSS\bin\Debug\DevExpress.Utils.v14.2.dll
 D:\github\POSS\Poss\POSS\bin\Debug\DevExpress.XtraBars.v14.2.dll
@@ -201,7 +200,6 @@ D:\github\POSS\Poss\POSS\bin\Debug\ICSharpCode.SharpZipLib.dll
 D:\github\POSS\Poss\POSS\bin\Debug\System.Data.SQLite.dll
 D:\github\POSS\Poss\POSS\bin\Debug\MySql.Data.dll
 D:\github\POSS\Poss\POSS\bin\Debug\LitJson.dll
-D:\github\POSS\Poss\POSS\bin\Debug\DevExpress.Data.v13.1.dll
 D:\github\POSS\Poss\POSS\bin\Debug\DevExpress.Sparkline.v14.2.Core.dll
 D:\github\POSS\Poss\POSS\bin\Debug\DevExpress.RichEdit.v14.2.Core.dll
 D:\github\POSS\Poss\POSS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
@@ -219,7 +217,6 @@ D:\github\POSS\Poss\POSS\bin\Debug\WxPayAPI.pdb
 D:\github\POSS\Poss\POSS\bin\Debug\POSS.Core.pdb
 D:\github\POSS\Poss\POSS\bin\Debug\Aspose.Cells.xml
 D:\github\POSS\Poss\POSS\bin\Debug\DevExpress.Data.v14.2.xml
-D:\github\POSS\Poss\POSS\bin\Debug\DevExpress.Printing.v13.1.Core.xml
 D:\github\POSS\Poss\POSS\bin\Debug\DevExpress.Printing.v14.2.Core.xml
 D:\github\POSS\Poss\POSS\bin\Debug\DevExpress.Utils.v14.2.xml
 D:\github\POSS\Poss\POSS\bin\Debug\DevExpress.XtraBars.v14.2.xml
@@ -228,7 +225,6 @@ D:\github\POSS\Poss\POSS\bin\Debug\DevExpress.XtraGrid.v14.2.xml
 D:\github\POSS\Poss\POSS\bin\Debug\DevExpress.XtraLayout.v14.2.xml
 D:\github\POSS\Poss\POSS\bin\Debug\DevExpress.XtraPrinting.v14.2.xml
 D:\github\POSS\Poss\POSS\bin\Debug\DevExpress.XtraTreeList.v14.2.xml
-D:\github\POSS\Poss\POSS\bin\Debug\DevExpress.Data.v13.1.xml
 D:\github\POSS\Poss\POSS\bin\Debug\DevExpress.Sparkline.v14.2.Core.xml
 D:\github\POSS\Poss\POSS\bin\Debug\DevExpress.RichEdit.v14.2.Core.xml
 D:\github\POSS\Poss\POSS\bin\Debug\DevExpress.Office.v14.2.Core.xml
@@ -236,10 +232,6 @@ D:\github\POSS\Poss\POSS\bin\Debug\de\DevExpress.Data.v14.2.resources.dll
 D:\github\POSS\Poss\POSS\bin\Debug\es\DevExpress.Data.v14.2.resources.dll
 D:\github\POSS\Poss\POSS\bin\Debug\ja\DevExpress.Data.v14.2.resources.dll
 D:\github\POSS\Poss\POSS\bin\Debug\ru\DevExpress.Data.v14.2.resources.dll
-D:\github\POSS\Poss\POSS\bin\Debug\de\DevExpress.Printing.v13.1.Core.resources.dll
-D:\github\POSS\Poss\POSS\bin\Debug\es\DevExpress.Printing.v13.1.Core.resources.dll
-D:\github\POSS\Poss\POSS\bin\Debug\ja\DevExpress.Printing.v13.1.Core.resources.dll
-D:\github\POSS\Poss\POSS\bin\Debug\ru\DevExpress.Printing.v13.1.Core.resources.dll
 D:\github\POSS\Poss\POSS\bin\Debug\de\DevExpress.Printing.v14.2.Core.resources.dll
 D:\github\POSS\Poss\POSS\bin\Debug\es\DevExpress.Printing.v14.2.Core.resources.dll
 D:\github\POSS\Poss\POSS\bin\Debug\ja\DevExpress.Printing.v14.2.Core.resources.dll
@@ -272,10 +264,6 @@ D:\github\POSS\Poss\POSS\bin\Debug\de\DevExpress.XtraTreeList.v14.2.resources.dl
 D:\github\POSS\Poss\POSS\bin\Debug\es\DevExpress.XtraTreeList.v14.2.resources.dll
 D:\github\POSS\Poss\POSS\bin\Debug\ja\DevExpress.XtraTreeList.v14.2.resources.dll
 D:\github\POSS\Poss\POSS\bin\Debug\ru\DevExpress.XtraTreeList.v14.2.resources.dll
-D:\github\POSS\Poss\POSS\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
-D:\github\POSS\Poss\POSS\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
-D:\github\POSS\Poss\POSS\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
-D:\github\POSS\Poss\POSS\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
 D:\github\POSS\Poss\POSS\bin\Debug\de\DevExpress.Sparkline.v14.2.Core.resources.dll
 D:\github\POSS\Poss\POSS\bin\Debug\es\DevExpress.Sparkline.v14.2.Core.resources.dll
 D:\github\POSS\Poss\POSS\bin\Debug\ja\DevExpress.Sparkline.v14.2.Core.resources.dll
@@ -335,3 +323,6 @@ D:\github\POSS\Poss\POSS\obj\Debug\POSS.UI.exe.licenses
 D:\github\POSS\Poss\POSS\obj\Debug\POSS.UI.exe
 D:\github\POSS\Poss\POSS\obj\Debug\POSS.UI.pdb
 D:\github\POSS\Poss\POSS\obj\Debug\POSS.FormQueryLs.resources
+D:\github\POSS\Poss\POSS\bin\Debug\DotRas.xml
+D:\github\POSS\Poss\POSS\bin\Debug\Newtonsoft.Json.xml
+D:\github\POSS\Poss\POSS\bin\Debug\NPOI.xml

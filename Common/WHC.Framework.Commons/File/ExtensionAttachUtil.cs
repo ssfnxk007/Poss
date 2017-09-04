@@ -16,7 +16,7 @@ namespace WHC.Framework.Commons
         /// <param name="_FilePathString">应用程序路径</param>
         /// <param name="p_FileTypeName">文件类型</param>
         public static void SaveReg(string _FilePathString, string p_FileTypeName)
-        {
+                      {
             RegistryKey _RegKey = Registry.ClassesRoot.OpenSubKey("", true);              //打开注册表
             RegistryKey _VRPkey = _RegKey.OpenSubKey(p_FileTypeName, true);
             if (_VRPkey != null)

@@ -28,3 +28,4 @@ D:\github\POSS\Poss\WxPayAPI\bin\WxPayAPI.pdb
 D:\github\POSS\Poss\WxPayAPI\obj\Debug\WxPayAPI.csprojResolveAssemblyReference.cache
 D:\github\POSS\Poss\WxPayAPI\obj\Debug\WxPayAPI.dll
 D:\github\POSS\Poss\WxPayAPI\obj\Debug\WxPayAPI.pdb
+D:\github\POSS\Poss\WxPayAPI\bin\LitJson.dll

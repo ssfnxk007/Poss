@@ -30,7 +30,7 @@ namespace WHC.Framework.Commons
         /// <returns>指定键返回的值</returns>
         public static string GetValue(string softwareKey, string key)
         {
-            return GetValue(softwareKey, key, Registry.CurrentUser);
+            return GetValue(softwareKey, key, Registry.LocalMachine);
         }
 
         /// <summary>
@@ -81,7 +81,7 @@ namespace WHC.Framework.Commons
         /// <returns>如果保存成功返回true，否则为false</returns>
         public static bool SaveValue(string softwareKey, string key, string value)
         {
-            return SaveValue(softwareKey, key, value, Registry.CurrentUser);
+            return SaveValue(softwareKey, key, value, Registry.LocalMachine);
         }
 
         /// <summary>

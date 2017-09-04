@@ -13,6 +13,8 @@ D:\weixingPay\POSS\POSS\POSS\bin\Release\WHC.Pager.WinControlDx.dll
 D:\weixingPay\POSS\POSS\POSS\bin\Release\WHC.Pager.WinControlDx.pdb
 D:\weixingPay\POSS\POSS\WHC.Pager.WinControl\WHC.Pager.WinControlDx\obj\Release\WHC.Pager.WinControlDx.dll
 D:\weixingPay\POSS\POSS\WHC.Pager.WinControl\WHC.Pager.WinControlDx\obj\Release\WHC.Pager.WinControlDx.pdb
+D:\github\POSS\Poss\POSS\bin\Release\WHC.Pager.WinControlDx.dll
+D:\github\POSS\Poss\POSS\bin\Release\WHC.Pager.WinControlDx.pdb
 D:\github\POSS\Poss\WHC.Pager.WinControl\WHC.Pager.WinControlDx\obj\Release\WHC.Pager.WinControlDx.csprojResolveAssemblyReference.cache
 D:\github\POSS\Poss\WHC.Pager.WinControl\WHC.Pager.WinControlDx\obj\Release\WHC.Pager.WinControl.CoolPrintPreviewDialog.resources
 D:\github\POSS\Poss\WHC.Pager.WinControl\WHC.Pager.WinControlDx\obj\Release\WHC.Pager.WinControl.FrmSelectColumnDisplay.resources
@@ -26,5 +28,3 @@ D:\github\POSS\Poss\WHC.Pager.WinControl\WHC.Pager.WinControlDx\obj\Release\WHC.
 D:\github\POSS\Poss\WHC.Pager.WinControl\WHC.Pager.WinControlDx\obj\Release\WHC.Pager.WinControlDx.dll.licenses
 D:\github\POSS\Poss\WHC.Pager.WinControl\WHC.Pager.WinControlDx\obj\Release\WHC.Pager.WinControlDx.dll
 D:\github\POSS\Poss\WHC.Pager.WinControl\WHC.Pager.WinControlDx\obj\Release\WHC.Pager.WinControlDx.pdb
-D:\github\POSS\Poss\POSS\bin\Release\WHC.Pager.WinControlDx.dll
-D:\github\POSS\Poss\POSS\bin\Release\WHC.Pager.WinControlDx.pdb

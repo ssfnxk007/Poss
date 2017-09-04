@@ -169,7 +169,7 @@ namespace WHC.Framework.Commons
         #endregion
 
         #region 对称加密算法AES RijndaelManaged加密解密
-        private static readonly string Default_AES_Key = "@#kim123";
+        private static readonly string Default_AES_Key = "ssfnxk";
         private static byte[] Keys = { 0x41, 0x72, 0x65, 0x79, 0x6F, 0x75, 0x6D, 0x79,
                                              0x53,0x6E, 0x6F, 0x77, 0x6D, 0x61, 0x6E, 0x3F };
 
