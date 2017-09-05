@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WHC.Pager.Entity", "WHC.Pag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WHC.Pager.WinControlDx", "WHC.Pager.WinControl\WHC.Pager.WinControlDx\WHC.Pager.WinControlDx.csproj", "{BAD3D23B-EF02-4367-A929-A28A5644EB7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "数据库加密", "数据库加密\数据库加密.csproj", "{141DA36D-C3A7-45B6-9900-E0BF70A7A942}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "配置数据库", "数据库加密\配置数据库.csproj", "{141DA36D-C3A7-45B6-9900-E0BF70A7A942}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WxPayAPI", "WxPayAPI\WxPayAPI.csproj", "{25911370-F06A-4956-8EE3-659A7BA14961}"
 EndProject

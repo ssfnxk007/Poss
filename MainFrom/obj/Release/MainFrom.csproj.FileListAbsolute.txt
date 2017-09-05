@@ -16,6 +16,9 @@ D:\github\POSS\Poss\MainFrom\obj\Release\MainFrom.csprojResolveAssemblyReference
 D:\github\POSS\Poss\MainFrom\obj\Release\MainFrom.BaseDock.resources
 D:\github\POSS\Poss\MainFrom\obj\Release\MainFrom.FormMain.resources
 D:\github\POSS\Poss\MainFrom\obj\Release\MainFrom.login.resources
+D:\github\POSS\Poss\MainFrom\obj\Release\MainFrom.FormQueryLs.resources
+D:\github\POSS\Poss\MainFrom\obj\Release\MainFrom.Member_TypeFrom.resources
+D:\github\POSS\Poss\MainFrom\obj\Release\MainFrom.Product_price.resources
 D:\github\POSS\Poss\MainFrom\obj\Release\MainFrom.Properties.Resources.resources
 D:\github\POSS\Poss\MainFrom\obj\Release\MainFrom.csproj.GenerateResource.Cache
 D:\github\POSS\Poss\MainFrom\obj\Release\MainFrom.exe.licenses

@@ -253,9 +253,6 @@ D:\github\POSS\Poss\POSS\obj\Release\POSS.DanBanFrom.resources
 D:\github\POSS\Poss\POSS\obj\Release\POSS.FrmPriont.resources
 D:\github\POSS\Poss\POSS\obj\Release\POSS.FromEditMember.resources
 D:\github\POSS\Poss\POSS\obj\Release\POSS.JiaoBanForm.resources
-D:\github\POSS\Poss\POSS\obj\Release\POSS.FormQueryLs.resources
-D:\github\POSS\Poss\POSS\obj\Release\POSS.Member_TypeFrom.resources
-D:\github\POSS\Poss\POSS\obj\Release\POSS.Product_price.resources
 D:\github\POSS\Poss\POSS\obj\Release\POSS.FormM_pass.resources
 D:\github\POSS\Poss\POSS\obj\Release\POSS.FormPassword.resources
 D:\github\POSS\Poss\POSS\obj\Release\POSS.FrmPay.resources
@@ -279,7 +276,6 @@ D:\github\POSS\Poss\POSS\obj\Release\POSS.SystemFrom.resources
 D:\github\POSS\Poss\POSS\obj\Release\POSS.text.resources
 D:\github\POSS\Poss\POSS\obj\Release\WHC.Framework.Commons.DataTimeSelect.resources
 D:\github\POSS\Poss\POSS\obj\Release\POSS.DataViewNavigator.resources
-D:\github\POSS\Poss\POSS\obj\Release\POSS.DateTimeControl.resources
 D:\github\POSS\Poss\POSS\obj\Release\WHC.Framework.Commons.InputDateBox.resources
 D:\github\POSS\Poss\POSS\obj\Release\POSS.SearchLookUpEditControl.resources
 D:\github\POSS\Poss\POSS\obj\Release\POSS.TextBoxControl.resources

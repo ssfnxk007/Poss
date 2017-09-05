@@ -9,7 +9,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>MainFrom</RootNamespace>
     <AssemblyName>MainFrom</AssemblyName>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <PublishUrl>publish\</PublishUrl>
@@ -27,6 +27,7 @@
     <IsWebBootstrapper>false</IsWebBootstrapper>
     <UseApplicationTrust>false</UseApplicationTrust>
     <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -48,7 +49,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>www.ico.la_c0ad416a03baa319668ed343a66478b2_32X32.ico</ApplicationIcon>
+    <ApplicationIcon>www.ico.la_d51e4670165b103883cdce8a9880647e_32X32.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Aspose.Cells, Version=4.8.1.0, Culture=neutral, processorArchitecture=MSIL">
@@ -97,10 +98,25 @@
     <Compile Include="BaseDock.designer.cs">
       <DependentUpon>BaseDock.cs</DependentUpon>
     </Compile>
+    <Compile Include="BaseDockQuery.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FormMain.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mainFrom\FormQueryLs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mainFrom\FormQueryLs.Designer.cs">
+      <DependentUpon>FormQueryLs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mainFrom\Member_TypeFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mainFrom\Product_price.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="MessagboxUit.cs" />
@@ -115,6 +131,15 @@
     <EmbeddedResource Include="login.resx">
       <DependentUpon>login.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="mainFrom\FormQueryLs.resx">
+      <DependentUpon>FormQueryLs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainFrom\Member_TypeFrom.resx">
+      <DependentUpon>Member_TypeFrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainFrom\Product_price.resx">
+      <DependentUpon>Product_price.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\licenses.licx" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -124,6 +149,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="App.config" />
     <None Include="Properties\Settings.settings">
@@ -186,6 +212,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="www.ico.la_c0ad416a03baa319668ed343a66478b2_32X32.ico" />
+    <Content Include="www.ico.la_d51e4670165b103883cdce8a9880647e_32X32.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

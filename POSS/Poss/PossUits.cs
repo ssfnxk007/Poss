@@ -1404,6 +1404,7 @@ namespace POSS
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.KeyPreview = true;
             this.Name = "PossUits";
+            this.Text = "Pos零售";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.PossUits_FormClosing);
             this.Load += new System.EventHandler(this.PossUits_Load);

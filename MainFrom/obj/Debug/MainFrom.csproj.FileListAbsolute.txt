@@ -24,3 +24,6 @@ D:\github\POSS\Poss\MainFrom\obj\Debug\MainFrom.exe.licenses
 D:\github\POSS\Poss\MainFrom\obj\Debug\MainFrom.exe
 D:\github\POSS\Poss\MainFrom\obj\Debug\MainFrom.pdb
 D:\github\POSS\Poss\MainFrom\obj\Debug\MainFrom.login.resources
+D:\github\POSS\Poss\MainFrom\obj\Debug\MainFrom.FormQueryLs.resources
+D:\github\POSS\Poss\MainFrom\obj\Debug\MainFrom.Member_TypeFrom.resources
+D:\github\POSS\Poss\MainFrom\obj\Debug\MainFrom.Product_price.resources

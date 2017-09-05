@@ -844,7 +844,6 @@ D:\github\POSS\Poss\Common\WHC.Framework.Commons\bin\Release\de\DevExpress.XtraW
 D:\github\POSS\Poss\Common\WHC.Framework.Commons\bin\Release\es\DevExpress.XtraWizard.v14.2.resources.dll
 D:\github\POSS\Poss\Common\WHC.Framework.Commons\bin\Release\ja\DevExpress.XtraWizard.v14.2.resources.dll
 D:\github\POSS\Poss\Common\WHC.Framework.Commons\bin\Release\ru\DevExpress.XtraWizard.v14.2.resources.dll
-D:\github\POSS\Poss\Common\WHC.Framework.Commons\obj\Debug\WHC.Framework.Commons.csprojResolveAssemblyReference.cache
 D:\github\POSS\Poss\Common\WHC.Framework.Commons\obj\Debug\WHC.Framework.Commons.csproj.ResolveComReference.cache
 D:\github\POSS\Poss\Common\WHC.Framework.Commons\obj\Debug\WHC.Framework.Commons.ComboBoxControl.resources
 D:\github\POSS\Poss\Common\WHC.Framework.Commons\obj\Debug\WHC.Framework.Commons.DataViewNavigator.resources
@@ -865,3 +864,4 @@ D:\github\POSS\Poss\Common\WHC.Framework.Commons\obj\Debug\WHC.Framework.Commons
 D:\github\POSS\Poss\Common\WHC.Framework.Commons\obj\Debug\WHC.Framework.Commons.dll.licenses
 D:\github\POSS\Poss\Common\WHC.Framework.Commons\obj\Debug\WHC.Framework.Commons.dll
 D:\github\POSS\Poss\Common\WHC.Framework.Commons\obj\Debug\WHC.Framework.Commons.pdb
+D:\github\POSS\Poss\Common\WHC.Framework.Commons\obj\Debug\WHC.Framework.Commons.csprojResolveAssemblyReference.cache

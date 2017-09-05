@@ -288,8 +288,6 @@ D:\github\POSS\Poss\POSS\obj\Debug\POSS.DanBanFrom.resources
 D:\github\POSS\Poss\POSS\obj\Debug\POSS.FrmPriont.resources
 D:\github\POSS\Poss\POSS\obj\Debug\POSS.FromEditMember.resources
 D:\github\POSS\Poss\POSS\obj\Debug\POSS.JiaoBanForm.resources
-D:\github\POSS\Poss\POSS\obj\Debug\POSS.Member_TypeFrom.resources
-D:\github\POSS\Poss\POSS\obj\Debug\POSS.Product_price.resources
 D:\github\POSS\Poss\POSS\obj\Debug\POSS.FormM_pass.resources
 D:\github\POSS\Poss\POSS\obj\Debug\POSS.FormPassword.resources
 D:\github\POSS\Poss\POSS\obj\Debug\POSS.FrmPay.resources
@@ -313,7 +311,6 @@ D:\github\POSS\Poss\POSS\obj\Debug\POSS.SystemFrom.resources
 D:\github\POSS\Poss\POSS\obj\Debug\POSS.text.resources
 D:\github\POSS\Poss\POSS\obj\Debug\WHC.Framework.Commons.DataTimeSelect.resources
 D:\github\POSS\Poss\POSS\obj\Debug\POSS.DataViewNavigator.resources
-D:\github\POSS\Poss\POSS\obj\Debug\POSS.DateTimeControl.resources
 D:\github\POSS\Poss\POSS\obj\Debug\WHC.Framework.Commons.InputDateBox.resources
 D:\github\POSS\Poss\POSS\obj\Debug\POSS.SearchLookUpEditControl.resources
 D:\github\POSS\Poss\POSS\obj\Debug\POSS.TextBoxControl.resources
@@ -322,7 +319,6 @@ D:\github\POSS\Poss\POSS\obj\Debug\POSS.csproj.GenerateResource.Cache
 D:\github\POSS\Poss\POSS\obj\Debug\POSS.UI.exe.licenses
 D:\github\POSS\Poss\POSS\obj\Debug\POSS.UI.exe
 D:\github\POSS\Poss\POSS\obj\Debug\POSS.UI.pdb
-D:\github\POSS\Poss\POSS\obj\Debug\POSS.FormQueryLs.resources
 D:\github\POSS\Poss\POSS\bin\Debug\DotRas.xml
 D:\github\POSS\Poss\POSS\bin\Debug\Newtonsoft.Json.xml
 D:\github\POSS\Poss\POSS\bin\Debug\NPOI.xml

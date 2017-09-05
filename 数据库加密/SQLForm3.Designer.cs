@@ -231,7 +231,7 @@
             this.Controls.Add(this.panelControl1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "SQLForm3";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "连接数据库";
             this.Load += new System.EventHandler(this.SQLForm3_Load);
             ((System.ComponentModel.ISupportInitialize)(this.panelControl1)).EndInit();

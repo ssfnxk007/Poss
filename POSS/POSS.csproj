@@ -49,7 +49,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>bitbug_favicon %281%29.ico</ApplicationIcon>
+    <ApplicationIcon>www.ico.la_3a1c75e9f67041f41940fb04555ec198_32X32.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="AopSdk, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
@@ -174,19 +174,6 @@
     <Compile Include="JiaoBanForm.Designer.cs">
       <DependentUpon>JiaoBanForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="mainFrom\FormQueryLs.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="mainFrom\FormQueryLs.Designer.cs">
-      <DependentUpon>FormQueryLs.cs</DependentUpon>
-    </Compile>
-    <Compile Include="mainFrom\Member_TypeFrom.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="mainFrom\Product_price.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Pos58Helper.cs" />
     <Compile Include="Poss\FormM_pass.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -278,9 +265,6 @@
     <Compile Include="UserContor\DataViewNavigator.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UserContor\DateTimeControl.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
     <Compile Include="UserContor\InputDateBox.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -328,15 +312,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="JiaoBanForm.resx">
       <DependentUpon>JiaoBanForm.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="mainFrom\FormQueryLs.resx">
-      <DependentUpon>FormQueryLs.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="mainFrom\Member_TypeFrom.resx">
-      <DependentUpon>Member_TypeFrom.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="mainFrom\Product_price.resx">
-      <DependentUpon>Product_price.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Poss\FormM_pass.resx">
       <DependentUpon>FormM_pass.cs</DependentUpon>
@@ -415,9 +390,6 @@
     <EmbeddedResource Include="UserContor\DataViewNavigator.resx">
       <DependentUpon>DataViewNavigator.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UserContor\DateTimeControl.resx">
-      <DependentUpon>DateTimeControl.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="UserContor\InputDateBox.resx">
       <DependentUpon>InputDateBox.cs</DependentUpon>
     </EmbeddedResource>
@@ -483,6 +455,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="bitbug_favicon %281%29.ico" />
+    <Content Include="www.ico.la_3a1c75e9f67041f41940fb04555ec198_32X32.ico" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.0">

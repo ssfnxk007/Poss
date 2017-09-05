@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace 数据库加密.Properties {
+namespace 配置数据库.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
